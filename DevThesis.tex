@@ -1,0 +1,64 @@
+\RequirePackage{fixltx2e}
+\documentclass[a4paper, titlepage, 12pt, twoside, open=right]{scrartcl}
+\usepackage[utf8]{inputenc}  
+\usepackage[T1]{fontenc}
+\usepackage{mathtools}
+\usepackage{longtable}
+\usepackage{lmodern}           
+\usepackage{polyglossia}
+\usepackage{morewrites} %wtf
+\usepackage{forest} % this is for the stemma diagram
+\usepackage[onehalfspacing]{setspace}
+\usepackage[toc,page]{appendix}
+\usepackage{multirow,bigdelim}
+\usepackage{parnotes}
+\usepackage{xfrac}
+\usepackage{graphicx}% stellt \scalebox bereit
+\usepackage{array,booktabs}% für Tabellen
+\usepackage{natbib}
+\onehalfspacing
+\setdefaultlanguage{english}
+\usepackage{xeCJK}
+ \setCJKmainfont[BoldFont=SimHei]{SimSun}
+%\setCJKmainfont{Noto Sans CJK TC Regular}
+\usepackage{marginnote}
+\usepackage{geometry}           
+\usepackage[multiple,perpage]{footmisc}
+\usepackage{endnotes}
+\def\enoteheading{\section{\notesname}%
+\mbox{}\par\vskip-\baselineskip}
+\geometry{left=2cm,right=3cm,top=2.5cm,bottom=2.5cm}
+\usepackage{changepage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+
+%avoid indent in quotes:
+\makeatletter
+\renewenvironment{quotation}
+  {\list{}{\listparindent=1.5em
+           \itemindent=0pt
+           \parsep\z@ \@plus\p@}%
+           \item\relax}
+  {\endlist}
+\makeatother
+
+
+\begin{document}
+
+\input{Chapters/title.tex}
+\tableofcontents
+\newpage
+\input{Chapters/summary.tex}
+\newpage
+\input{Chapters/definitions.tex}
+\newpage
+\input{Chapters/frequency.tex}
+\newpage
+\input{Chapters/discussion.tex}
+\newpage
+\bibliographystyle{plainnat}
+\bibliography{bib}
+
+
+\end{document}
+
