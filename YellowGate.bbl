@@ -1,4 +1,4 @@
-\begin{thebibliography}{24}
+\begin{thebibliography}{25}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -20,13 +20,13 @@ Bhikkhu Anālayo.
 \bibitem[Bhimbhai(1901)]{bhimbhai}
 K.~Bhimbhai.
 \newblock {Pavayas in Gujarat population, Hindus}.
-\newblock \emph{Gazetteer of the Bombay Presidency}, \penalty0 (9):\penalty0
-  586--588, 1901.
+\newblock \emph{Gazetteer of the Bombay Presidency}, 9:\penalty0 586--588,
+  1901.
 
 \bibitem[Bomhard(2016)]{bomhard}
 A.R. Bomhard.
 \newblock {The Two Meanings of the Pāḷi Term paṇḍaka}.
-\newblock 2016.
+\newblock \emph{Academia.edu}, 2016.
 \newblock URL
   \url{https://www.academia.edu/2210944/The_Two_Meanings_of_the_Pali_Term_pandaka_written_in_2012_revised_November_2016_}.
 
@@ -35,6 +35,11 @@ Bodhi~Translation Committee.
 \newblock \emph{{Dharmaguptaka Vinaya, Ordination Skandhaka}}.
 \newblock Bodhi Foundation for Culture and Education, 2015.
 \newblock URL \url{http://dharmaguptakavinaya.wordpress.com}.
+
+\bibitem[Dudas(2002)]{dudas}
+P.~Dudas.
+\newblock \emph{{The Jains}}.
+\newblock Routledge, 2002.
 
 \bibitem[Dundas(1964)]{dundas}
 P.~Dundas.
@@ -50,13 +55,33 @@ R.P. Goldman.
   (3):\penalty0 374--401, 1993.
 \newblock URL \url{http://www.jstor.org/stable/605387}.
 
+\bibitem[Goonesekere(2008)]{goonesekere}
+L.R. Goonesekere.
+\newblock \emph{{Buddhist Commentarial Literature}}.
+\newblock Buddhist Publication Society, 2008.
+\newblock URL
+  \url{https://www.bps.lk/olib/wh/wh113_Goonesekere_Buddhist-Commentarial-Literature.html#A77897789hakath257}.
+
 \bibitem[Ibbetson and Rose(1911)]{ibbetson}
-MacLagen~M.E. Ibbetson, D.C.J. and H.A. Rose.
+D.C.J. M.E.~MacLagen Ibbetson and H.A. Rose.
 \newblock \emph{{A glossary of the tribes and castes of the Punjab and
   Nortb-West Frontier Province Volume 2}}.
 \newblock Civil and Military Gazette Press, 1911.
 \newblock URL
   \url{https://archive.org/details/glossaryoftribes03rose/page/n689/mode/2up}.
+
+\bibitem[Jackson(1996)]{jackson}
+P.A. Jackson.
+\newblock Non-normative sex/gender categories in the theravada buddhist
+  scriptures.
+\newblock \emph{Australian Humanities Review}, 1996.
+\newblock URL
+  \url{https://web.archive.org/web/20170404051712/http://www.australianhumanitiesreview.org/archive/issue1-feb-mar-96/jackson/references.html}.
+
+\bibitem[Jacobi(2008)]{jacobi}
+H.G. Jacobi.
+\newblock \emph{{Jaina Sutras}}.
+\newblock Forgotten Books, 2008.
 
 \bibitem[Maizes(2015)]{maizes}
 V.~Maizes.
@@ -70,25 +95,6 @@ S.~Nanda.
   Company}, 1999.
 \newblock URL
   \url{https://petervas.files.wordpress.com/2013/03/serena_nanda.pdf}.
-
-\bibitem[of~Medicine()]{nlm}
-US~National~Library of~Medicine.
-\newblock {Intersex}.
-\newblock URL \url{https://medlineplus.gov/ency/article/001669.htm}.
-
-\bibitem[of~North~America(2013)]{is2013}
-Intersex~Society of~North~America.
-\newblock {Is a person who is intersex a hermaphrodite?}
-\newblock 2013.
-\newblock URL
-  \url{https://web.archive.org/web/20130701061246/http://www.isna.org/faq/hermaphrodite}.
-
-\bibitem[of~the High Commissioner~for Human~Rights(2015)]{un2015}
-UN~Office of~the High Commissioner~for Human~Rights.
-\newblock {Free and Equal Campaign Fact Sheet: Intersex}.
-\newblock 2015.
-\newblock URL
-  \url{https://unfe.org/system/unfe-65-Intersex_Factsheet_ENGLISH.pdf}.
 
 \bibitem[Polly and Nicole(2011)]{polly}
 R.~Polly and J.~Nicole.
@@ -105,8 +111,7 @@ L.W. Preston.
 \bibitem[Shah(1961)]{shah}
 A.M. Shah.
 \newblock A note on the hijadas of gujarat.
-\newblock \emph{American Anthropologist}, \penalty0 (6):\penalty0 1325--1330,
-  1961.
+\newblock \emph{American Anthropologist}, 6:\penalty0 1325--1330, 1961.
 \newblock URL \url{http://www.jstor.org/stable/666864}.
 
 \bibitem[Sujato(2009)]{sujato2009}
@@ -127,7 +132,7 @@ Bhikkhu Sujato.
 Bhikkhunī Vimala.
 \newblock {The meaning of paṇḍaka in light of the Vedic and Jain
   scriptures}.
-\newblock 2019.
+\newblock \emph{Samita ASBL}, 2019.
 \newblock URL
   \url{https://samita.be/en/2019/05/29/the-meaning-of-pa%e1%b9%87%e1%b8%8daka-in-light-of-the-vedic-and-jain-scriptures/}.
 
