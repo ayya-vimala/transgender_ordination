@@ -1,12 +1,12 @@
-\begin{thebibliography}{9}
+\begin{thebibliography}{24}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem[Altilio(2011)]{altilio}
-Shirley Altilio, Terry; Otis-Green.
+\bibitem[Altilio and Otis-Green(2011)]{altilio}
+T.~Altilio and S.~Otis-Green.
 \newblock \emph{{Oxford Textbook of Palliative Social Work}}.
 \newblock Oxford University Press, 2011.
 \newblock URL \url{https://books.google.com/books?id=XS3XJL_RGIgC&pg=PA380}.
@@ -17,10 +17,59 @@ Bhikkhu Anālayo.
 \newblock \emph{Journal of Buddhist Ethics, Special 20th Anniversary Issue},
   2013.
 
+\bibitem[Bhimbhai(1901)]{bhimbhai}
+K.~Bhimbhai.
+\newblock {Pavayas in Gujarat population, Hindus}.
+\newblock \emph{Gazetteer of the Bombay Presidency}, \penalty0 (9):\penalty0
+  586--588, 1901.
+
+\bibitem[Bomhard(2016)]{bomhard}
+A.R. Bomhard.
+\newblock {The Two Meanings of the Pāḷi Term paṇḍaka}.
+\newblock 2016.
+\newblock URL
+  \url{https://www.academia.edu/2210944/The_Two_Meanings_of_the_Pali_Term_pandaka_written_in_2012_revised_November_2016_}.
+
+\bibitem[Committee(2015)]{bodhi}
+Bodhi~Translation Committee.
+\newblock \emph{{Dharmaguptaka Vinaya, Ordination Skandhaka}}.
+\newblock Bodhi Foundation for Culture and Education, 2015.
+\newblock URL \url{http://dharmaguptakavinaya.wordpress.com}.
+
+\bibitem[Dundas(1964)]{dundas}
+P.~Dundas.
+\newblock \emph{The Jains}.
+\newblock Library of religious beliefs and practices. Routledge, 1964.
+\newblock ISBN 9780415266062.
+\newblock URL \url{https://books.google.be/books?id=jt6-YXE2aUwC}.
+
+\bibitem[Goldman(1993)]{goldman}
+R.P. Goldman.
+\newblock Transsexualism, gender, and anxiety in traditional india.
+\newblock \emph{Journal of the American Oriental Society}, 113\penalty0
+  (3):\penalty0 374--401, 1993.
+\newblock URL \url{http://www.jstor.org/stable/605387}.
+
+\bibitem[Ibbetson and Rose(1911)]{ibbetson}
+MacLagen~M.E. Ibbetson, D.C.J. and H.A. Rose.
+\newblock \emph{{A glossary of the tribes and castes of the Punjab and
+  Nortb-West Frontier Province Volume 2}}.
+\newblock Civil and Military Gazette Press, 1911.
+\newblock URL
+  \url{https://archive.org/details/glossaryoftribes03rose/page/n689/mode/2up}.
+
 \bibitem[Maizes(2015)]{maizes}
-Victoria Maizes.
+V.~Maizes.
 \newblock \emph{{Integrative Women's Health}}.
 \newblock American Psychiatric Association, 2015.
+
+\bibitem[Nanda(1999)]{nanda}
+S.~Nanda.
+\newblock {Neither Man nor Woman, The Hijras of India}.
+\newblock \emph{John Jay College of Criminal Justice, Wadsworth Publishing
+  Company}, 1999.
+\newblock URL
+  \url{https://petervas.files.wordpress.com/2013/03/serena_nanda.pdf}.
 
 \bibitem[of~Medicine()]{nlm}
 US~National~Library of~Medicine.
@@ -42,10 +91,23 @@ UN~Office of~the High Commissioner~for Human~Rights.
   \url{https://unfe.org/system/unfe-65-Intersex_Factsheet_ENGLISH.pdf}.
 
 \bibitem[Polly and Nicole(2011)]{polly}
-R~Polly and J~Nicole.
+R.~Polly and J.~Nicole.
 \newblock {Understanding the transsexual patient: culturally sensitive care in
   emergency nursing practice}.
 \newblock \emph{Advanced Emergency Nursing Journal}, 2011.
+
+\bibitem[Preston(1987)]{preston}
+L.W. Preston.
+\newblock \emph{{A right to exist: Eunuchs and the state in nineteenth-century
+  India}}.
+\newblock Modern Asian Studies, 1987.
+
+\bibitem[Shah(1961)]{shah}
+A.M. Shah.
+\newblock A note on the hijadas of gujarat.
+\newblock \emph{American Anthropologist}, \penalty0 (6):\penalty0 1325--1330,
+  1961.
+\newblock URL \url{http://www.jstor.org/stable/666864}.
 
 \bibitem[Sujato(2009)]{sujato2009}
 Bhikkhu Sujato.
@@ -54,6 +116,13 @@ Bhikkhu Sujato.
 \newblock URL
   \url{https://www.lulu.com/shop/bhikkhu-sujato/shop/bhikkhu-sujato/bhikkhuni-vinaya-studies/paperback/product-1gjw8vnr.html}.
 
+\bibitem[Sujato(2012)]{sujato2012}
+Bhikkhu Sujato.
+\newblock \emph{{Sects and Sectarianism}}.
+\newblock Lulu, 2012.
+\newblock URL
+  \url{https://www.lulu.com/en/en/shop/bhikkhu-sujato/sects-sectarianism/paperback/product-1k8jgw87.html}.
+
 \bibitem[Vimala(2019)]{vimala}
 Bhikkhunī Vimala.
 \newblock {The meaning of paṇḍaka in light of the Vedic and Jain
@@ -61,5 +130,33 @@ Bhikkhunī Vimala.
 \newblock 2019.
 \newblock URL
   \url{https://samita.be/en/2019/05/29/the-meaning-of-pa%e1%b9%87%e1%b8%8daka-in-light-of-the-vedic-and-jain-scriptures/}.
+
+\bibitem[Wezler(1998)]{wezler}
+A.~Wezler.
+\newblock {Sanskrit paṇḍá- / páṇḍaka-}.
+\newblock \emph{Zeitschrift der Deutschen Morgenländischen Gesellschaft},
+  1998.
+
+\bibitem[Wong(2005)]{wong}
+K.~Wong.
+\newblock {Homosexuality and the original meaning of Pandaka}.
+\newblock \emph{Letter to the Buddhist Channel}, 2005.
+
+\bibitem[Zwilling and Sweet(1996)]{zwilling}
+L.~Zwilling and M.J. Sweet.
+\newblock {Like a City Ablaze: The Third Sex and the Creation of Sexuality in
+  Jain Religious Literature}.
+\newblock \emph{Journal of the History of Sexuality}, 1996.
+
+\bibitem[Zwilling and Sweet(2000)]{zwilling2000}
+L.~Zwilling and M.J. Sweet.
+\newblock {The Evolution of Third-Sex Constructs in Ancient India: A Study in
+  Ambiguity}.
+\newblock \emph{SOAS Studies on South Asia}, 2000.
+
+\bibitem[Ṭhānissaro(1996)]{thanissaro}
+Bhikkhu Ṭhānissaro.
+\newblock \emph{{The Buddhist Monastic Code}}.
+\newblock Valley Center, CA: Mettā Forest Monastery, 1996.
 
 \end{thebibliography}

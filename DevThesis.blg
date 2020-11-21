@@ -3,51 +3,64 @@ Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: DevThesis.aux
 The style file: plainnat.bst
 Database file #1: bib.bib
+Warning--I didn't find a database entry for "dudas"
+Warning--I didn't find a database entry for "jacobi"
+Too many commas in name 1 of "Ibbetson, D.C.J., MacLagen, M.E. and Rose, H.A." for entry ibbetson
+while executing---line 1347 of file plainnat.bst
+Too many commas in name 1 of "Ibbetson, D.C.J., MacLagen, M.E. and Rose, H.A." for entry ibbetson
+while executing---line 1347 of file plainnat.bst
+Warning--there's a number but no volume in bhimbhai
+Warning--empty journal in bomhard
+Too many commas in name 1 of "Ibbetson, D.C.J., MacLagen, M.E. and Rose, H.A." for entry ibbetson
+while executing---line 1429 of file plainnat.bst
+Too many commas in name 1 of "Ibbetson, D.C.J., MacLagen, M.E. and Rose, H.A." for entry ibbetson
+while executing---line 1429 of file plainnat.bst
 Warning--empty journal in nlm
 Warning--empty year in nlm
 Warning--empty year in nlm
 Warning--empty journal in is2013
 Warning--empty journal in un2015
+Warning--there's a number but no volume in shah
 Warning--empty journal in vimala
-You've used 9 entries,
+You've used 24 entries,
             2773 wiz_defined-function locations,
-            635 strings with 6174 characters,
-and the built_in function-call counts, 2841 in all, are:
-= -- 240
-> -- 101
-< -- 9
-+ -- 39
-- -- 30
-* -- 161
-:= -- 469
-add.period$ -- 32
-call.type$ -- 9
-change.case$ -- 34
-chr.to.int$ -- 9
-cite$ -- 24
-duplicate$ -- 174
-empty$ -- 277
-format.name$ -- 41
-if$ -- 582
+            725 strings with 8444 characters,
+and the built_in function-call counts, 7972 in all, are:
+= -- 698
+> -- 295
+< -- 24
++ -- 111
+- -- 87
+* -- 482
+:= -- 1295
+add.period$ -- 87
+call.type$ -- 24
+change.case$ -- 92
+chr.to.int$ -- 24
+cite$ -- 57
+duplicate$ -- 468
+empty$ -- 771
+format.name$ -- 121
+if$ -- 1656
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 12
-newline$ -- 58
-num.names$ -- 36
-pop$ -- 97
+missing$ -- 33
+newline$ -- 142
+num.names$ -- 96
+pop$ -- 241
 preamble$ -- 1
-purify$ -- 28
+purify$ -- 77
 quote$ -- 0
-skip$ -- 115
+skip$ -- 312
 stack$ -- 0
-substring$ -- 18
-swap$ -- 5
+substring$ -- 129
+swap$ -- 19
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 84
-warning$ -- 6
-while$ -- 27
+type$ -- 219
+warning$ -- 9
+while$ -- 78
 width$ -- 0
-write$ -- 121
-(There were 6 warnings)
+write$ -- 322
+(There were 4 error messages)
