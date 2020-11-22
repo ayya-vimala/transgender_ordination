@@ -3,30 +3,32 @@
 \contentsline {section}{\numberline {2}Vedic, Brahmanic and Jain scriptures}{6}{section.2}
 \contentsline {subsection}{\numberline {2.1}Emergence of the Third Gender in Mythology}{6}{subsection.2.1}
 \contentsline {subsection}{\numberline {2.2}Sex and Gender in the Jain Order}{8}{subsection.2.2}
-\contentsline {subsection}{\numberline {2.3}Jain Monastic Ordination}{10}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.3}Jain Monastic Ordination}{11}{subsection.2.3}
 \contentsline {section}{\numberline {3}Pāli and Chinese Vinayas of the different schools}{12}{section.3}
 \contentsline {subsection}{\numberline {3.1}Theravāda Vinaya}{12}{subsection.3.1}
-\contentsline {subsection}{\numberline {3.2}Mahāsaṅghika Vinaya}{12}{subsection.3.2}
-\contentsline {subsection}{\numberline {3.3}Dharmaguptaka Vinaya}{13}{subsection.3.3}
-\contentsline {subsection}{\numberline {3.4}Mahīśāsaka Vinaya}{14}{subsection.3.4}
-\contentsline {subsection}{\numberline {3.5}Sarvāstivāda Vinaya}{14}{subsection.3.5}
-\contentsline {subsection}{\numberline {3.6}Commentaries}{15}{subsection.3.6}
-\contentsline {section}{\numberline {4}The Paṇḍaka}{18}{section.4}
-\contentsline {subsection}{\numberline {4.1}History}{20}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}The Five Types}{21}{subsection.4.2}
-\contentsline {subsection}{\numberline {4.3}Meaning}{23}{subsection.4.3}
-\contentsline {section}{\numberline {5}Ubhatob­yañ­janaka}{24}{section.5}
-\contentsline {subsection}{\numberline {5.1}Meaning}{26}{subsection.5.1}
-\contentsline {section}{\numberline {6}Appendix 1: Glossary of Definitions}{27}{section.6}
-\contentsline {subsection}{\numberline {6.1}Definitions of Pāli words}{27}{subsection.6.1}
-\contentsline {subsubsection}{\numberline {6.1.1}Napuṃsaka}{27}{subsubsection.6.1.1}
-\contentsline {subsubsection}{\numberline {6.1.2}Paṇḍaka}{27}{subsubsection.6.1.2}
-\contentsline {subsubsection}{\numberline {6.1.3}Ubhatob­yañ­janaka}{27}{subsubsection.6.1.3}
-\contentsline {subsubsection}{\numberline {6.1.4}Other references}{27}{subsubsection.6.1.4}
-\contentsline {subsection}{\numberline {6.2}Modern Definitions}{28}{subsection.6.2}
-\contentsline {subsubsection}{\numberline {6.2.1}Intersex}{28}{subsubsection.6.2.1}
-\contentsline {subsubsection}{\numberline {6.2.2}Hermaphrodite}{29}{subsubsection.6.2.2}
-\contentsline {subsubsection}{\numberline {6.2.3}Transgender}{29}{subsubsection.6.2.3}
-\contentsline {section}{\numberline {7}Appendix 2: Word Frequency}{30}{section.7}
-\contentsline {subsection}{\numberline {7.1}Pāli canon and commentaries}{30}{subsection.7.1}
-\contentsline {subsection}{\numberline {7.2}Sanskrit Buddhist and Vedic canon}{30}{subsection.7.2}
+\contentsline {subsection}{\numberline {3.2}Mahāsaṅghika Vinaya}{13}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Dharmaguptaka Vinaya}{14}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Mahīśāsaka Vinaya}{15}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}Sarvāstivāda Vinaya}{16}{subsection.3.5}
+\contentsline {subsection}{\numberline {3.6}Commentaries}{16}{subsection.3.6}
+\contentsline {section}{\numberline {4}The Paṇḍaka}{19}{section.4}
+\contentsline {subsection}{\numberline {4.1}History}{21}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}The Five Types}{22}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Meaning}{24}{subsection.4.3}
+\contentsline {section}{\numberline {5}Ubhatob­yañ­janaka}{25}{section.5}
+\contentsline {subsection}{\numberline {5.1}Meaning}{28}{subsection.5.1}
+\contentsline {section}{\numberline {6}Itthipaṇḍaka, Animittā, Nimittamattā, Vepurisikā}{29}{section.6}
+\contentsline {section}{\numberline {7}Conclusion}{31}{section.7}
+\contentsline {section}{\numberline {8}Appendix 1: Glossary of Definitions}{32}{section.8}
+\contentsline {subsection}{\numberline {8.1}Definitions of Pāli words}{32}{subsection.8.1}
+\contentsline {subsubsection}{\numberline {8.1.1}Napuṃsaka}{32}{subsubsection.8.1.1}
+\contentsline {subsubsection}{\numberline {8.1.2}Paṇḍaka}{32}{subsubsection.8.1.2}
+\contentsline {subsubsection}{\numberline {8.1.3}Ubhatob­yañ­janaka}{32}{subsubsection.8.1.3}
+\contentsline {subsubsection}{\numberline {8.1.4}Vepurisikā}{32}{subsubsection.8.1.4}
+\contentsline {subsection}{\numberline {8.2}Modern Definitions}{33}{subsection.8.2}
+\contentsline {subsubsection}{\numberline {8.2.1}Intersex}{33}{subsubsection.8.2.1}
+\contentsline {subsubsection}{\numberline {8.2.2}Hermaphrodite}{33}{subsubsection.8.2.2}
+\contentsline {subsubsection}{\numberline {8.2.3}Transgender}{34}{subsubsection.8.2.3}
+\contentsline {section}{\numberline {9}Appendix 2: Word Frequency}{35}{section.9}
+\contentsline {subsection}{\numberline {9.1}Pāli canon and commentaries}{35}{subsection.9.1}
+\contentsline {subsection}{\numberline {9.2}Sanskrit Buddhist and Vedic canon}{35}{subsection.9.2}
