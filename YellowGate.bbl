@@ -1,4 +1,4 @@
-\begin{thebibliography}{27}
+\begin{thebibliography}{34}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -7,38 +7,55 @@
 
 \bibitem[Altilio and Otis-Green(2011)]{altilio}
 T.~Altilio and S.~Otis-Green.
-\newblock \emph{{Oxford Textbook of Palliative Social Work}}.
+\newblock \emph{Oxford Textbook of Palliative Social Work}.
 \newblock Oxford University Press, 2011.
 \newblock URL \url{https://books.google.com/books?id=XS3XJL_RGIgC&pg=PA380}.
 
+\bibitem[Anderson(2016{\natexlab{a}})]{anderson2016}
+C.~Anderson.
+\newblock Changing sex in pali buddhist monastic literature.
+\newblock \emph{Queering Paradigms VI: Interventions, Ethics and Glocalities},
+  pages 231--251, 09 2016{\natexlab{a}}.
+
+\bibitem[Anderson(2016{\natexlab{b}})]{anderson2016a}
+C.~Anderson.
+\newblock Defining women’s bodies in indian buddhist literature.
+\newblock \emph{Barbara A. Holdrege and Karen Pechilis (eds) Re-figuring the
+  Body: Embodiment in South Asian Religions}, 2016{\natexlab{b}}.
+
 \bibitem[Anālayo(2013)]{analayo2013}
 Bhikkhu Anālayo.
-\newblock {The Legality of Bhikkhunī Ordination}.
+\newblock The legality of bhikkhunī ordination.
 \newblock \emph{Journal of Buddhist Ethics, Special 20th Anniversary Issue},
   2013.
 
 \bibitem[Bhimbhai(1901)]{bhimbhai}
 K.~Bhimbhai.
-\newblock {Pavayas in Gujarat population, Hindus}.
+\newblock Pavayas in gujarat population, hindus.
 \newblock \emph{Gazetteer of the Bombay Presidency}, 9:\penalty0 586--588,
   1901.
 
 \bibitem[Bomhard(2016)]{bomhard}
 A.R. Bomhard.
-\newblock {The Two Meanings of the Pāḷi Term paṇḍaka}.
+\newblock The two meanings of the pāḷi term paṇḍaka.
 \newblock \emph{Academia.edu}, 2016.
 \newblock URL
   \url{https://www.academia.edu/2210944/The_Two_Meanings_of_the_Pali_Term_pandaka_written_in_2012_revised_November_2016_}.
 
 \bibitem[BTC(2015)]{bodhi}
 Bodhi Translation~Committee BTC.
-\newblock \emph{{Dharmaguptaka Vinaya, Ordination Skandhaka}}.
+\newblock \emph{Dharmaguptaka Vinaya, Ordination Skandhaka}.
 \newblock Bodhi Foundation for Culture and Education, 2015.
 \newblock URL \url{http://dharmaguptakavinaya.wordpress.com}.
 
+\bibitem[Doniger~O'Flaherty(1982)]{wendy}
+W.~Doniger~O'Flaherty.
+\newblock \emph{Women, Androgynes, and Other Mythical Beasts}.
+\newblock University of Chicago Press, 1982.
+
 \bibitem[Dudas(2002)]{dudas}
 P.~Dudas.
-\newblock \emph{{The Jains}}.
+\newblock \emph{The Jains}.
 \newblock Routledge, 2002.
 
 \bibitem[Dundas(1964)]{dundas}
@@ -57,15 +74,21 @@ R.P. Goldman.
 
 \bibitem[Goonesekere(2008)]{goonesekere}
 L.R. Goonesekere.
-\newblock \emph{{Buddhist Commentarial Literature}}.
+\newblock \emph{Buddhist Commentarial Literature}.
 \newblock Buddhist Publication Society, 2008.
 \newblock URL
   \url{https://www.bps.lk/olib/wh/wh113_Goonesekere_Buddhist-Commentarial-Literature.html#A77897789hakath257}.
 
+\bibitem[Heirman(2012)]{heirman}
+A.~Heirman.
+\newblock Sleep well! sleeping practices in buddhist disciplinary rules.
+\newblock \emph{Acta Orientalia Academiae Scientiarum Hungaricae}, 65:\penalty0
+  427--444, 2012.
+
 \bibitem[Ibbetson et~al.(1911)Ibbetson, MacLagen, and Rose]{ibbetson}
 D.C.J. Ibbetson, M.E. MacLagen, and H.A. Rose.
-\newblock \emph{{A glossary of the tribes and castes of the Punjab and
-  Nortb-West Frontier Province Volume 2}}.
+\newblock \emph{A glossary of the tribes and castes of the Punjab and
+  Nortb-West Frontier Province Volume 2}.
 \newblock Civil and Military Gazette Press, 1911.
 \newblock URL
   \url{https://archive.org/details/glossaryoftribes03rose/page/n689/mode/2up}.
@@ -80,38 +103,58 @@ P.A. Jackson.
 
 \bibitem[Jacobi(2008)]{jacobi}
 H.G. Jacobi.
-\newblock \emph{{Jaina Sutras}}.
+\newblock \emph{Jaina Sutras}.
 \newblock Forgotten Books, 2008.
+
+\bibitem[Maes(2011)]{maes2011}
+C.~Maes.
+\newblock One-sensed facultied life in the pāli vinaya: A camouflaged debate
+  between early buddhists and jains.
+\newblock \emph{Bulletin D’Études Indiennes}, 28--29:\penalty0 85--104,
+  2011.
+
+\bibitem[Maes(2016{\natexlab{a}})]{maes}
+C.~Maes.
+\newblock "the buddha is a raft" on metaphors, the language of liberation and
+  the religious others in early buddhism.
+\newblock \emph{International Institute for Asian Studies}, 2016{\natexlab{a}}.
+
+\bibitem[Maes(2016{\natexlab{b}})]{maes2016}
+C.~Maes.
+\newblock Flirtation with the other: an examination of the processes of
+  othering in the pali vinaya.
+\newblock \emph{Bulletin of SOAS}, 2016{\natexlab{b}}.
 
 \bibitem[Maizes(2015)]{maizes}
 V.~Maizes.
-\newblock \emph{{Integrative Women's Health}}.
+\newblock \emph{Integrative Women's Health}.
 \newblock American Psychiatric Association, 2015.
 
 \bibitem[Nanda(1999)]{nanda}
 S.~Nanda.
-\newblock {Neither Man nor Woman, The Hijras of India}.
+\newblock Neither man nor woman, the hijras of india.
 \newblock \emph{John Jay College of Criminal Justice, Wadsworth Publishing
   Company}, 1999.
 \newblock URL
   \url{https://petervas.files.wordpress.com/2013/03/serena_nanda.pdf}.
 
-\bibitem[O'Flaherty(1982)]{wendy}
-W.D. O'Flaherty.
-\newblock \emph{{Women, Androgynes, and Other Mythical Beasts}}.
-\newblock University of Chicago Press, 1982.
-
 \bibitem[Polly and Nicole(2011)]{polly}
 R.~Polly and J.~Nicole.
-\newblock {Understanding the transsexual patient: culturally sensitive care in
-  emergency nursing practice}.
+\newblock Understanding the transsexual patient: culturally sensitive care in
+  emergency nursing practice.
 \newblock \emph{Advanced Emergency Nursing Journal}, 2011.
 
 \bibitem[Preston(1987)]{preston}
 L.W. Preston.
-\newblock \emph{{A right to exist: Eunuchs and the state in nineteenth-century
-  India}}.
+\newblock \emph{A right to exist: Eunuchs and the state in nineteenth-century
+  India}.
 \newblock Modern Asian Studies, 1987.
+
+\bibitem[Scherer(2006)]{scherer}
+B.~Scherer.
+\newblock Gender transformed and meta-gendered enlightenment: Reading buddhist
+  narratives as paradigms of inclusiveness.
+\newblock \emph{Revista de Estudos da Religião}, 6:\penalty0 65--76, 2006.
 
 \bibitem[Shah(1961)]{shah}
 A.M. Shah.
@@ -121,59 +164,58 @@ A.M. Shah.
 
 \bibitem[Sujato(2009)]{sujato2009}
 Bhikkhu Sujato.
-\newblock \emph{{Bhikkhuni Vinaya Studies}}.
+\newblock \emph{Bhikkhuni Vinaya Studies}.
 \newblock Lulu, 2009.
 \newblock URL
   \url{https://www.lulu.com/shop/bhikkhu-sujato/shop/bhikkhu-sujato/bhikkhuni-vinaya-studies/paperback/product-1gjw8vnr.html}.
 
 \bibitem[Sujato(2011)]{sujato2011}
 Bhikkhu Sujato.
-\newblock \emph{{White Bones Red Rot Black Snakes}}.
+\newblock \emph{White Bones Red Rot Black Snakes}.
 \newblock Lulu, 2011.
 \newblock URL
   \url{https://www.lulu.com/en/en/shop/bhikkhu-sujato/white-bones-red-rot-black-snakes/ebook/product-20401388.html}.
 
 \bibitem[Sujato(2012)]{sujato2012}
 Bhikkhu Sujato.
-\newblock \emph{{Sects and Sectarianism}}.
+\newblock \emph{Sects and Sectarianism}.
 \newblock Lulu, 2012.
 \newblock URL
   \url{https://www.lulu.com/en/en/shop/bhikkhu-sujato/sects-sectarianism/paperback/product-1k8jgw87.html}.
 
 \bibitem[Vimala(2019)]{vimala}
 Bhikkhunī Vimala.
-\newblock {The meaning of paṇḍaka in light of the Vedic and Jain
-  scriptures}.
+\newblock The meaning of paṇḍaka in light of the vedic and jain scriptures.
 \newblock \emph{Samita ASBL}, 2019.
 \newblock URL
   \url{https://samita.be/en/2019/05/29/the-meaning-of-pa%e1%b9%87%e1%b8%8daka-in-light-of-the-vedic-and-jain-scriptures/}.
 
 \bibitem[Wezler(1998)]{wezler}
 A.~Wezler.
-\newblock {Sanskrit paṇḍá- / páṇḍaka-}.
+\newblock Sanskrit paṇḍá- / páṇḍaka-.
 \newblock \emph{Zeitschrift der Deutschen Morgenländischen Gesellschaft},
   1998.
 
 \bibitem[Wong(2005)]{wong}
 K.~Wong.
-\newblock {Homosexuality and the original meaning of Pandaka}.
+\newblock Homosexuality and the original meaning of pandaka.
 \newblock \emph{Letter to the Buddhist Channel}, 2005.
 
 \bibitem[Zwilling and Sweet(1996)]{zwilling}
 L.~Zwilling and M.J. Sweet.
-\newblock {Like a City Ablaze: The Third Sex and the Creation of Sexuality in
-  Jain Religious Literature}.
+\newblock Like a city ablaze: The third sex and the creation of sexuality in
+  jain religious literature.
 \newblock \emph{Journal of the History of Sexuality}, 1996.
 
 \bibitem[Zwilling and Sweet(2000)]{zwilling2000}
 L.~Zwilling and M.J. Sweet.
-\newblock {The Evolution of Third-Sex Constructs in Ancient India: A Study in
-  Ambiguity}.
+\newblock The evolution of third-sex constructs in ancient india: A study in
+  ambiguity.
 \newblock \emph{SOAS Studies on South Asia}, 2000.
 
 \bibitem[Ṭhānissaro(1996)]{thanissaro}
 Bhikkhu Ṭhānissaro.
-\newblock \emph{{The Buddhist Monastic Code}}.
+\newblock \emph{The Buddhist Monastic Code}.
 \newblock Valley Center, CA: Mettā Forest Monastery, 1996.
 
 \end{thebibliography}

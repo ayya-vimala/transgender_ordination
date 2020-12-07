@@ -3,44 +3,44 @@ Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: YellowGate.aux
 The style file: plainnat.bst
 Database file #1: bib.bib
-You've used 27 entries,
+You've used 34 entries,
             2773 wiz_defined-function locations,
-            740 strings with 8816 characters,
-and the built_in function-call counts, 8878 in all, are:
-= -- 765
-> -- 334
-< -- 26
-+ -- 126
-- -- 99
-* -- 526
-:= -- 1453
-add.period$ -- 97
-call.type$ -- 27
-change.case$ -- 100
-chr.to.int$ -- 27
-cite$ -- 54
-duplicate$ -- 531
-empty$ -- 870
-format.name$ -- 134
-if$ -- 1850
-int.to.chr$ -- 1
+            773 strings with 9843 characters,
+and the built_in function-call counts, 11395 in all, are:
+= -- 1004
+> -- 404
+< -- 34
++ -- 156
+- -- 120
+* -- 682
+:= -- 1839
+add.period$ -- 118
+call.type$ -- 34
+change.case$ -- 128
+chr.to.int$ -- 32
+cite$ -- 68
+duplicate$ -- 677
+empty$ -- 1119
+format.name$ -- 162
+if$ -- 2384
+int.to.chr$ -- 3
 int.to.str$ -- 1
-missing$ -- 41
-newline$ -- 158
-num.names$ -- 108
-pop$ -- 269
+missing$ -- 48
+newline$ -- 193
+num.names$ -- 136
+pop$ -- 326
 preamble$ -- 1
-purify$ -- 87
+purify$ -- 108
 quote$ -- 0
-skip$ -- 352
+skip$ -- 448
 stack$ -- 0
-substring$ -- 135
-swap$ -- 27
-text.length$ -- 0
+substring$ -- 247
+swap$ -- 48
+text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 227
+type$ -- 304
 warning$ -- 0
-while$ -- 87
+while$ -- 117
 width$ -- 0
-write$ -- 365
+write$ -- 453
