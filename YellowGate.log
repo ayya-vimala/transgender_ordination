@@ -1,8 +1,8 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.9.16)  7 DEC 2020 14:21
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.9.16)  10 DEC 2020 14:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**YellowGate.tex
+**YellowGate
 (./YellowGate.tex
 LaTeX2e <2017-04-15>
 Babel <3.18> and hyphenation patterns for 3 language(s) loaded.
@@ -2242,17 +2242,12 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 \openout3 = `YellowGate.mw'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 12--13
+Underfull \hbox (badness 10000) in paragraph at lines 8--13
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 12--13
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 14--17
+Underfull \hbox (badness 10000) in paragraph at lines 8--13
 
  []
 
@@ -2281,13 +2276,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--17
 LaTeX Font Warning: Font shape `TU/SimSun(0)/m/it' undefined
 (Font)              using `TU/SimSun(0)/m/n' instead on input line 14.
 
-
-Underfull \vbox (badness 5490) has occurred while \output is active []
-
 \openout3 = `YellowGate.mw'.
 
- [7]
-(./YellowGate.mw)
+[7] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 \openout3 = `YellowGate.mw'.
@@ -2303,6 +2294,9 @@ Underfull \vbox (badness 5490) has occurred while \output is active []
 
  [9] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout3 = `YellowGate.mw'.
 
@@ -3000,10 +2994,10 @@ LaTeX Warning: There were undefined references.
 Here is how much of TeX's memory you used:
  51552 strings out of 494988
  1107428 string characters out of 6178638
- 1283614 words of memory out of 5000000
+ 1283595 words of memory out of 5000000
  54652 multiletter control sequences out of 15000+600000
  559234 words of font info for 67 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 72i,8n,100p,10465b,663s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 72i,8n,100p,10461b,663s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on YellowGate.pdf (48 pages).
