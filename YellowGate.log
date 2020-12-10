@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.9.16)  10 DEC 2020 18:39
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.9.16)  10 DEC 2020 19:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2634,13 +2634,7 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 25--27
 
 \openout3 = `YellowGate.mw'.
 
-\openout3 = `YellowGate.mw'.
-
- [41] (./YellowGate.mw)
-\openout3 = `YellowGate.mw'.
-
-
-(./Chapters/frequency.tex
+ (./Chapters/frequency.tex
 File: pali.jpg Graphic file (type bmp)
 <pali.jpg>
 
@@ -2664,7 +2658,7 @@ See the caption package documentation for explanation.
 )
 \openout3 = `YellowGate.mw'.
 
- [42] (./YellowGate.mw)
+ [41] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 \openout3 = `YellowGate.mw'.
@@ -2701,7 +2695,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--32
 
 \openout3 = `YellowGate.mw'.
 
-[43] (./YellowGate.mw)
+[42] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 \openout3 = `YellowGate.mw'.
@@ -2730,7 +2724,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--32
 
 \openout3 = `YellowGate.mw'.
 
- [44] (./YellowGate.mw)
+ [43] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 \openout3 = `YellowGate.mw'.
@@ -2748,7 +2742,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--32
 )
 \openout3 = `YellowGate.mw'.
 
- [45] (./YellowGate.mw)
+ [44] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 \openout3 = `YellowGate.mw'.
@@ -2790,7 +2784,7 @@ Underfull \hbox (badness 2772) in paragraph at lines 76--81
 
 \openout3 = `YellowGate.mw'.
 
-[46] (./YellowGate.mw)
+[45] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 
@@ -2820,7 +2814,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 180--185
 
 \openout3 = `YellowGate.mw'.
 
-[47] (./YellowGate.mw)
+[46] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 )
@@ -2829,7 +2823,7 @@ Package natbib Warning: There were undefined citations.
 
 \openout3 = `YellowGate.mw'.
 
-[48] (./YellowGate.mw)
+[47] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 84.
@@ -2995,12 +2989,12 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 51554 strings out of 494988
- 1107453 string characters out of 6178638
- 1282493 words of memory out of 5000000
- 54654 multiletter control sequences out of 15000+600000
+ 51551 strings out of 494988
+ 1107411 string characters out of 6178638
+ 1282488 words of memory out of 5000000
+ 54653 multiletter control sequences out of 15000+600000
  559234 words of font info for 67 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  72i,8n,100p,10461b,663s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on YellowGate.pdf (48 pages).
+Output written on YellowGate.pdf (47 pages).
