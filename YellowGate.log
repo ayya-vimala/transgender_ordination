@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.9.16)  12 DEC 2020 14:11
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.9.16)  13 DEC 2020 13:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2248,16 +2248,10 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
-\openout3 = `YellowGate.mw'.
-
- [6] (./YellowGate.mw)
-\openout3 = `YellowGate.mw'.
-
  (./Chapters/history.tex
 \openout3 = `YellowGate.mw'.
 
- [7]
-(./YellowGate.mw)
+ [6] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 \openout3 = `YellowGate.mw'.
@@ -2275,7 +2269,16 @@ LaTeX Font Warning: Font shape `TU/SimSun(0)/m/it' undefined
 
 \openout3 = `YellowGate.mw'.
 
-[8] (./YellowGate.mw)
+[7] (./YellowGate.mw)
+\openout3 = `YellowGate.mw'.
+
+\openout3 = `YellowGate.mw'.
+
+ [8] (./YellowGate.mw)
+\openout3 = `YellowGate.mw'.
+
+\openout3 = `YellowGate.mw'.
+
 \openout3 = `YellowGate.mw'.
 
 \openout3 = `YellowGate.mw'.
@@ -2283,28 +2286,19 @@ LaTeX Font Warning: Font shape `TU/SimSun(0)/m/it' undefined
  [9] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
-\openout3 = `YellowGate.mw'.
-
-\openout3 = `YellowGate.mw'.
-
-\openout3 = `YellowGate.mw'.
-
- [10] (./YellowGate.mw)
-\openout3 = `YellowGate.mw'.
-
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout3 = `YellowGate.mw'.
 
- [11]
+ [10]
 (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 )
 \openout3 = `YellowGate.mw'.
 
- [12] (./YellowGate.mw)
+ [11] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 \openout3 = `YellowGate.mw'.
@@ -2315,7 +2309,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 \openout3 = `YellowGate.mw'.
 
 
-[13] (./YellowGate.mw)
+[12] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 \openout3 = `YellowGate.mw'.
@@ -2323,24 +2317,33 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 \openout3 = `YellowGate.mw'.
 
 )
+Underfull \hbox (badness 10000) in paragraph at lines 10--62
+
+ []
+
 \openout3 = `YellowGate.mw'.
 
- [14] (./YellowGate.mw)
+[13] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
  (./Chapters/pandaka.tex
 \openout3 = `YellowGate.mw'.
 
+ [14] (./YellowGate.mw)
+\openout3 = `YellowGate.mw'.
+
+\openout3 = `YellowGate.mw'.
+
+\openout3 = `YellowGate.mw'.
+
+\openout3 = `YellowGate.mw'.
+
+\openout3 = `YellowGate.mw'.
+
+\openout3 = `YellowGate.mw'.
+
  [15]
 (./YellowGate.mw)
-\openout3 = `YellowGate.mw'.
-
-\openout3 = `YellowGate.mw'.
-
-\openout3 = `YellowGate.mw'.
-
-\openout3 = `YellowGate.mw'.
-
 \openout3 = `YellowGate.mw'.
 
 \openout3 = `YellowGate.mw'.
@@ -2350,24 +2353,21 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout3 = `YellowGate.mw'.
 
+\openout3 = `YellowGate.mw'.
+
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman10-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+\openout3 = `YellowGate.mw'.
+
  [17] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 \openout3 = `YellowGate.mw'.
 
-\openout3 = `YellowGate.mw'.
-
-Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
-Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
-\openout3 = `YellowGate.mw'.
-
  [18]
 (./YellowGate.mw)
-\openout3 = `YellowGate.mw'.
-
-\openout3 = `YellowGate.mw'.
-
- [19] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 \openout3 = `YellowGate.mw'.
@@ -2377,18 +2377,18 @@ Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
 File: pandaka.jpg Graphic file (type bmp)
 <pandaka.jpg>
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 64--68
+Overfull \hbox (12.0pt too wide) in paragraph at lines 60--63
 [][]
  []
 
 \openout3 = `YellowGate.mw'.
 
-[20] (./YellowGate.mw)
+[19] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 \openout3 = `YellowGate.mw'.
 
- [21] (./YellowGate.mw)
+ [20] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 \openout3 = `YellowGate.mw'.
@@ -2399,18 +2399,19 @@ File: Eunuchs-in-ancient-China.jpg Graphic file (type bmp)
 <Eunuchs-in-ancient-China.jpg>
 File: hijra.jpg Graphic file (type bmp)
 <hijra.jpg>
-)
-Underfull \vbox (badness 6995) has occurred while \output is active []
+
+Underfull \vbox (badness 1552) has occurred while \output is active []
 
 \openout3 = `YellowGate.mw'.
 
- [22]
+ [21]
 (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
+)
 \openout3 = `YellowGate.mw'.
 
- [23] (./YellowGate.mw)
+ [22] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
  (./Chapters/ubhato.tex
@@ -2439,7 +2440,7 @@ ntassa purisa-
 
 \openout3 = `YellowGate.mw'.
 
-[24] (./YellowGate.mw)
+[23] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 \openout3 = `YellowGate.mw'.
@@ -2455,44 +2456,53 @@ a \TU/lmr/m/n/12 and the male \TU/lmr/m/it/12 ubhatob­yañ­janaka\TU/lmr/m/n/1
 
 \openout3 = `YellowGate.mw'.
 
-[25] (./YellowGate.mw)
+[24] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 
 
-Package natbib Warning: Citation `dhammadinna' on page 26 undefined on input li
+Package natbib Warning: Citation `dhammadinna' on page 25 undefined on input li
 ne 46.
+
+\openout3 = `YellowGate.mw'.
+
+[25] (./YellowGate.mw)
+\openout3 = `YellowGate.mw'.
+
+File: androgyne.jpg Graphic file (type bmp)
+<androgyne.jpg>
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 57.
+See the caption package documentation for explanation.
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 55--60
+[][]
+ []
 
 \openout3 = `YellowGate.mw'.
 
 [26] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
-File: androgyne.jpg Graphic file (type bmp)
-<androgyne.jpg>
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 55--57
-[][]
- []
+Underfull \vbox (badness 3954) has occurred while \output is active []
 
 \openout3 = `YellowGate.mw'.
 
-[27] (./YellowGate.mw)
-\openout3 = `YellowGate.mw'.
-
-\openout3 = `YellowGate.mw'.
-
- [28] (./YellowGate.mw)
+ [27]
+(./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 )
 \openout3 = `YellowGate.mw'.
 
- [29] (./YellowGate.mw)
+ [28] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
-
-(./Chapters/animitta.tex
+ (./Chapters/animitta.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
@@ -2504,7 +2514,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--11
 
 \openout3 = `YellowGate.mw'.
 
-[30] (./YellowGate.mw)
+[29] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 \openout3 = `YellowGate.mw'.
@@ -2521,13 +2531,13 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 25--27
 )
 \openout3 = `YellowGate.mw'.
 
- [31] (./YellowGate.mw)
+ [30] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
  (./Chapters/trans.tex
 \openout3 = `YellowGate.mw'.
 
- [32] (./YellowGate.mw)
+ [31] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 \openout3 = `YellowGate.mw'.
@@ -2536,20 +2546,20 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 25--27
 
 \openout3 = `YellowGate.mw'.
 
- [33]
+ [32]
 (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 )
 \openout3 = `YellowGate.mw'.
 
- [34] (./YellowGate.mw)
+ [33] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
  (./Chapters/conclusion.tex
 \openout3 = `YellowGate.mw'.
 
- [35]
+ [34]
 (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
@@ -2559,17 +2569,30 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 25--27
 
 \openout3 = `YellowGate.mw'.
 
- [36] (./YellowGate.mw)
+ [35] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 )
 \openout3 = `YellowGate.mw'.
 
- [37] (./YellowGate.mw)
+ [36] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 
 (./Chapters/chinese.tex
+\openout3 = `YellowGate.mw'.
+
+ [37] (./YellowGate.mw)
+\openout3 = `YellowGate.mw'.
+
+\openout3 = `YellowGate.mw'.
+
+\openout3 = `YellowGate.mw'.
+
+\openout3 = `YellowGate.mw'.
+
+\openout3 = `YellowGate.mw'.
+
 \openout3 = `YellowGate.mw'.
 
  [38] (./YellowGate.mw)
@@ -2579,23 +2602,15 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 25--27
 
 \openout3 = `YellowGate.mw'.
 
-\openout3 = `YellowGate.mw'.
+
+Overfull \hbox (7.24109pt too wide) in paragraph at lines 39--40
+[]\TU/lmr/m/n/12 While in the Mahāsaṅghika Vinaya the castration (i.e. cutting 
+off of the male root/faculty
+ []
 
 \openout3 = `YellowGate.mw'.
 
-\openout3 = `YellowGate.mw'.
-
- [39] (./YellowGate.mw)
-\openout3 = `YellowGate.mw'.
-
-\openout3 = `YellowGate.mw'.
-
-\openout3 = `YellowGate.mw'.
-
-\openout3 = `YellowGate.mw'.
-
- [40]
-(./YellowGate.mw)
+[39] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 \openout3 = `YellowGate.mw'.
@@ -2605,7 +2620,7 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 25--27
 )
 \openout3 = `YellowGate.mw'.
 
- [41] (./YellowGate.mw)
+ [40] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 \openout3 = `YellowGate.mw'.
@@ -2636,7 +2651,7 @@ See the caption package documentation for explanation.
 )
 \openout3 = `YellowGate.mw'.
 
- [42] (./YellowGate.mw)
+ [41] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 \openout3 = `YellowGate.mw'.
@@ -2673,7 +2688,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--32
 
 \openout3 = `YellowGate.mw'.
 
-[43] (./YellowGate.mw)
+[42] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 \openout3 = `YellowGate.mw'.
@@ -2702,7 +2717,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--32
 
 \openout3 = `YellowGate.mw'.
 
- [44] (./YellowGate.mw)
+ [43] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 \openout3 = `YellowGate.mw'.
@@ -2720,7 +2735,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--32
 )
 \openout3 = `YellowGate.mw'.
 
- [45] (./YellowGate.mw)
+ [44] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 \openout3 = `YellowGate.mw'.
@@ -2762,7 +2777,7 @@ Underfull \hbox (badness 2772) in paragraph at lines 76--81
 
 \openout3 = `YellowGate.mw'.
 
-[46] (./YellowGate.mw)
+[45] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 
@@ -2792,7 +2807,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 180--185
 
 \openout3 = `YellowGate.mw'.
 
-[47] (./YellowGate.mw)
+[46] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 )
@@ -2801,7 +2816,7 @@ Package natbib Warning: There were undefined citations.
 
 \openout3 = `YellowGate.mw'.
 
-[48] (./YellowGate.mw)
+[47] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 84.
@@ -2956,12 +2971,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 51540 strings out of 494988
- 1106757 string characters out of 6178638
- 1281530 words of memory out of 5000000
- 54640 multiletter control sequences out of 15000+600000
+ 51539 strings out of 494988
+ 1106735 string characters out of 6178638
+ 1282535 words of memory out of 5000000
+ 54641 multiletter control sequences out of 15000+600000
  559234 words of font info for 67 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  72i,8n,100p,10461b,663s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on YellowGate.pdf (48 pages).
+Output written on YellowGate.pdf (47 pages).
