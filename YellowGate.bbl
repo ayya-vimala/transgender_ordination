@@ -1,4 +1,4 @@
-\begin{thebibliography}{34}
+\begin{thebibliography}{36}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -28,6 +28,11 @@ Bhikkhu Anālayo.
 \newblock The legality of bhikkhunī ordination.
 \newblock \emph{Journal of Buddhist Ethics, Special 20th Anniversary Issue},
   2013.
+
+\bibitem[Artinger(2020)]{artinger}
+B.~Artinger.
+\newblock Sexual and gender identity in early buddhist literature.
+\newblock \emph{Considered for publishing at the time of this writing}, 2020.
 
 \bibitem[Bhimbhai(1901)]{bhimbhai}
 K.~Bhimbhai.
@@ -86,6 +91,13 @@ L.R. Goonesekere.
 \newblock Buddhist Publication Society, 2008.
 \newblock URL
   \url{https://www.bps.lk/olib/wh/wh113_Goonesekere_Buddhist-Commentarial-Literature.html#A77897789hakath257}.
+
+\bibitem[Hecker(1976)]{hecker}
+H.~Hecker.
+\newblock \emph{Buddhist Women at the Time of The Buddha}.
+\newblock Buddhist Publication Society, 1976.
+\newblock URL
+  \url{https://www.accesstoinsight.org/lib/authors/hecker/wheel292.html}.
 
 \bibitem[Heirman(2012)]{heirman}
 A.~Heirman.

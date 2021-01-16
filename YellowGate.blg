@@ -1,46 +1,46 @@
-This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
-Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: YellowGate.aux
 The style file: plainnat.bst
 Database file #1: bib.bib
-You've used 34 entries,
+You've used 36 entries,
             2773 wiz_defined-function locations,
-            774 strings with 9875 characters,
-and the built_in function-call counts, 11442 in all, are:
-= -- 1010
-> -- 404
-< -- 34
-+ -- 156
-- -- 120
-* -- 688
-:= -- 1843
-add.period$ -- 117
-call.type$ -- 34
-change.case$ -- 128
-chr.to.int$ -- 32
-cite$ -- 68
-duplicate$ -- 678
-empty$ -- 1125
-format.name$ -- 162
-if$ -- 2394
+            784 strings with 10131 characters,
+and the built_in function-call counts, 12046 in all, are:
+= -- 1061
+> -- 424
+< -- 36
++ -- 164
+- -- 126
+* -- 720
+:= -- 1943
+add.period$ -- 124
+call.type$ -- 36
+change.case$ -- 135
+chr.to.int$ -- 34
+cite$ -- 72
+duplicate$ -- 717
+empty$ -- 1187
+format.name$ -- 170
+if$ -- 2520
 int.to.chr$ -- 3
 int.to.str$ -- 1
-missing$ -- 48
-newline$ -- 192
-num.names$ -- 136
-pop$ -- 325
+missing$ -- 51
+newline$ -- 203
+num.names$ -- 144
+pop$ -- 345
 preamble$ -- 1
-purify$ -- 108
+purify$ -- 114
 quote$ -- 0
-skip$ -- 448
+skip$ -- 473
 stack$ -- 0
-substring$ -- 263
-swap$ -- 48
+substring$ -- 267
+swap$ -- 50
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 304
+type$ -- 321
 warning$ -- 0
-while$ -- 119
+while$ -- 125
 width$ -- 0
-write$ -- 452
+write$ -- 478
