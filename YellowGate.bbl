@@ -1,4 +1,4 @@
-\begin{thebibliography}{36}
+\begin{thebibliography}{37}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -52,6 +52,12 @@ Bodhi Translation~Committee BTC.
 \newblock \emph{Dharmaguptaka Vinaya, Ordination Skandhaka}.
 \newblock Bodhi Foundation for Culture and Education, 2015.
 \newblock URL \url{http://dharmaguptakavinaya.wordpress.com}.
+
+\bibitem[Conner et~al.(1998)Conner, Sparks, and Sparks]{cassell}
+R.P. Conner, M.~Sparks, and D.~Hatfield Sparks.
+\newblock \emph{Cassell's Encyclopedia of Queer Myth, Symbol and Spirit: Gay,
+  Lesbian, Bisexual and Transgender Lore}.
+\newblock Cassell \& Co, 1998.
 
 \bibitem[Dhammadinnā(2019)]{dhammadinna}
 Bhikkhunī Dhammadinnā.

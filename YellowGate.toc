@@ -4,25 +4,25 @@
 \contentsline {subsection}{\numberline {2.1}Emergence of the Third Sex/Gender}{6}{subsection.2.1}%
 \contentsline {subsection}{\numberline {2.2}Sex and Gender in the Jain Order}{8}{subsection.2.2}%
 \contentsline {subsection}{\numberline {2.3}Jain Monastic Ordination}{11}{subsection.2.3}%
-\contentsline {section}{\numberline {3}Liṅga and the Dispute on Women's Ordination}{11}{section.3}%
+\contentsline {section}{\numberline {3}Liṅga and the Dispute on Women's Ordination}{12}{section.3}%
 \contentsline {section}{\numberline {4}The Paṇḍaka}{13}{section.4}%
 \contentsline {subsection}{\numberline {4.1}The Paṇḍaka in the Pali Vinaya}{13}{subsection.4.1}%
 \contentsline {subsection}{\numberline {4.2}The Five Types of Paṇḍaka}{16}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}The Paṇḍaka in the Chinese Vinayas}{18}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}Development of the Paṇḍaka in the Scriptures}{20}{subsection.4.4}%
-\contentsline {section}{\numberline {5}The Ubhatob­yañ­janaka}{21}{section.5}%
-\contentsline {section}{\numberline {6}Itthipaṇḍaka, Animittā, Nimittamattā, Vepurisikā}{27}{section.6}%
-\contentsline {section}{\numberline {7}Changing Gender}{30}{section.7}%
-\contentsline {section}{\numberline {8}Conclusion}{32}{section.8}%
-\contentsline {section}{\numberline {9}Acknowledgments}{35}{section.9}%
-\contentsline {section}{\numberline {A}Sex and Gender Non-Conformity in the Chinese Vinayas of the Different Schools}{36}{appendix.A}%
-\contentsline {subsection}{\numberline {A.1}Mahāsaṅghika Vinaya}{36}{subsection.A.1}%
-\contentsline {subsection}{\numberline {A.2}Dharmaguptaka Vinaya}{37}{subsection.A.2}%
-\contentsline {subsection}{\numberline {A.3}Mahīśāsaka Vinaya}{38}{subsection.A.3}%
-\contentsline {subsection}{\numberline {A.4}Sarvāstivāda Vinaya}{39}{subsection.A.4}%
-\contentsline {section}{\numberline {B}Word Frequency}{40}{appendix.B}%
-\contentsline {subsection}{\numberline {B.1}Pali Canon and Commentaries}{40}{subsection.B.1}%
-\contentsline {subsection}{\numberline {B.2}Sanskrit Buddhist and Vedic Canon and Commentaries}{41}{subsection.B.2}%
-\contentsline {section}{\numberline {C}Glossary of Definitions}{41}{appendix.C}%
-\contentsline {subsection}{\numberline {C.1}Definitions of Pali Words}{41}{subsection.C.1}%
-\contentsline {subsection}{\numberline {C.2}Modern Definitions}{42}{subsection.C.2}%
+\contentsline {subsection}{\numberline {4.3}The Paṇḍaka in the Chinese Vinayas}{19}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Development of the Paṇḍaka in the Scriptures}{21}{subsection.4.4}%
+\contentsline {section}{\numberline {5}The Ubhatob­yañ­janaka}{23}{section.5}%
+\contentsline {section}{\numberline {6}Itthipaṇḍaka, Animittā, Nimittamattā, Vepurisikā}{28}{section.6}%
+\contentsline {section}{\numberline {7}Changing Gender}{31}{section.7}%
+\contentsline {section}{\numberline {8}Conclusion}{33}{section.8}%
+\contentsline {section}{\numberline {9}With Gratitude}{36}{section.9}%
+\contentsline {section}{\numberline {A}Sex and Gender Non-Conformity in the Chinese Vinayas of the Different Schools}{38}{appendix.A}%
+\contentsline {subsection}{\numberline {A.1}Mahāsaṅghika Vinaya}{38}{subsection.A.1}%
+\contentsline {subsection}{\numberline {A.2}Dharmaguptaka Vinaya}{39}{subsection.A.2}%
+\contentsline {subsection}{\numberline {A.3}Mahīśāsaka Vinaya}{40}{subsection.A.3}%
+\contentsline {subsection}{\numberline {A.4}Sarvāstivāda Vinaya}{41}{subsection.A.4}%
+\contentsline {section}{\numberline {B}Word Frequency}{42}{appendix.B}%
+\contentsline {subsection}{\numberline {B.1}Pali Canon and Commentaries}{42}{subsection.B.1}%
+\contentsline {subsection}{\numberline {B.2}Sanskrit Buddhist and Vedic Canon and Commentaries}{43}{subsection.B.2}%
+\contentsline {section}{\numberline {C}Glossary of Definitions}{43}{appendix.C}%
+\contentsline {subsection}{\numberline {C.1}Definitions of Pali Words}{43}{subsection.C.1}%
+\contentsline {subsection}{\numberline {C.2}Modern Definitions}{44}{subsection.C.2}%
