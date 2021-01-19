@@ -1,4 +1,4 @@
-\begin{thebibliography}{37}
+\begin{thebibliography}{38}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -66,6 +66,12 @@ Bhikkhunī Dhammadinnā.
 \newblock \emph{Annual Report of the International Research Institute for
   Advanced Buddhology (ARIRIAB) at Soka University for the Academic Year 2018},
   22:\penalty0 9--34, 2019.
+
+\bibitem[Doniger~O'Flaherty(1969)]{wendy1969}
+W.~Doniger~O'Flaherty.
+\newblock Asceticism and sexuality in the mythology of Śiva. part i.
+\newblock \emph{History of Religions}, 8\penalty0 (4):\penalty0 300--337, 1969.
+\newblock URL \url{http://www.jstor.org/stable/1062019}.
 
 \bibitem[Doniger~O'Flaherty(1982)]{wendy}
 W.~Doniger~O'Flaherty.

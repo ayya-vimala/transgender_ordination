@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.1.11)  17 JAN 2021 08:24
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.1.11)  19 JAN 2021 15:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1521,19 +1521,19 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
+\openout3 = `YellowGate.mw'.
+
+ [7] (./YellowGate.mw)
+\openout3 = `YellowGate.mw'.
+
 
 
 LaTeX Font Warning: Font shape `TU/SimSun(0)/m/it' undefined
-(Font)              using `TU/SimSun(0)/m/n' instead on input line 16.
+(Font)              using `TU/SimSun(0)/m/n' instead on input line 18.
 
 \openout3 = `YellowGate.mw'.
 
-[7] (./YellowGate.mw)
-\openout3 = `YellowGate.mw'.
-
-\openout3 = `YellowGate.mw'.
-
- [8] (./YellowGate.mw)
+[8] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 \openout3 = `YellowGate.mw'.
@@ -1543,23 +1543,23 @@ LaTeX Font Warning: Font shape `TU/SimSun(0)/m/it' undefined
 
 \openout3 = `YellowGate.mw'.
 
- [10]
+ [10] (./YellowGate.mw)
+\openout3 = `YellowGate.mw'.
+
+\openout3 = `YellowGate.mw'.
+
+ [11]
 (./YellowGate.mw)
-\openout3 = `YellowGate.mw'.
-
-\openout3 = `YellowGate.mw'.
-
- [11] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 ) (./Chapters/characteristics.tex
 \openout3 = `YellowGate.mw'.
 
-
-[12] (./YellowGate.mw)
+ [12] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
-) (./Chapters/pandaka.tex
+)
+(./Chapters/pandaka.tex
 Underfull \hbox (badness 10000) in paragraph at lines 10--1
 
  []
@@ -1711,9 +1711,20 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 58--63
 [26] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
+
+Overfull \hbox (1.71176pt too wide) in paragraph at lines 66--67
+[]\TU/lmr/m/n/12 Serena Nanda[][][][] writes about the practices and beliefs in
+ Tantric Hinduism which emerged
+ []
+
 \openout3 = `YellowGate.mw'.
 
- [27] (./YellowGate.mw)
+[27] (./YellowGate.mw)
+\openout3 = `YellowGate.mw'.
+
+\openout3 = `YellowGate.mw'.
+
+ [28] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 ) (./Chapters/animitta.tex
@@ -1726,14 +1737,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--11
 
  []
 
-\openout3 = `YellowGate.mw'.
 
-[28] (./YellowGate.mw)
-\openout3 = `YellowGate.mw'.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout3 = `YellowGate.mw'.
 
- [29] (./YellowGate.mw)
+ [29]
+(./YellowGate.mw)
+\openout3 = `YellowGate.mw'.
+
+\openout3 = `YellowGate.mw'.
+
+ [30] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 File: female.jpg Graphic file (type bmp)
@@ -1745,35 +1760,26 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 38--40
 
 \openout3 = `YellowGate.mw'.
 
-[30] (./YellowGate.mw)
+[31] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 ) (./Chapters/trans.tex
 \openout3 = `YellowGate.mw'.
 
- [31] (./YellowGate.mw)
+ [32] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 \openout3 = `YellowGate.mw'.
 
- [32]
+ [33]
 (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 ) (./Chapters/conclusion.tex
 \openout3 = `YellowGate.mw'.
 
- [33] (./YellowGate.mw)
+ [34] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
-
-\openout3 = `YellowGate.mw'.
-
- [34]
-(./YellowGate.mw)
-\openout3 = `YellowGate.mw'.
-
-
-Underfull \vbox (badness 2818) has occurred while \output is active []
 
 \openout3 = `YellowGate.mw'.
 
@@ -1781,7 +1787,19 @@ Underfull \vbox (badness 2818) has occurred while \output is active []
 (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
-) (./Chapters/acknowledgement.tex
+\openout3 = `YellowGate.mw'.
+
+ [36] (./YellowGate.mw)
+\openout3 = `YellowGate.mw'.
+
+)
+\openout3 = `YellowGate.mw'.
+
+ [37] (./YellowGate.mw)
+\openout3 = `YellowGate.mw'.
+
+
+(./Chapters/acknowledgement.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
@@ -1796,11 +1814,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--8
 
  []
 
-\openout3 = `YellowGate.mw'.
-
-[36] (./YellowGate.mw)
-\openout3 = `YellowGate.mw'.
-
 
 Underfull \hbox (badness 10000) in paragraph at lines 9--10
 
@@ -1809,29 +1822,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--10
 )
 \openout3 = `YellowGate.mw'.
 
- [37] (./YellowGate.mw)
+ [38] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
  (./Chapters/chinese.tex
 \openout3 = `YellowGate.mw'.
 
- [38] (./YellowGate.mw)
+ [39] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 \openout3 = `YellowGate.mw'.
 
 
-[39] (./YellowGate.mw)
-\openout3 = `YellowGate.mw'.
-
-\openout3 = `YellowGate.mw'.
-
- [40] (./YellowGate.mw)
+[40] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 \openout3 = `YellowGate.mw'.
 
  [41] (./YellowGate.mw)
+\openout3 = `YellowGate.mw'.
+
+\openout3 = `YellowGate.mw'.
+
+ [42] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 )
@@ -1848,7 +1861,7 @@ File: sanskrit.jpg Graphic file (type bmp)
 <sanskrit.jpg>
 \openout3 = `YellowGate.mw'.
 
-[42] (./YellowGate.mw)
+[43] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 
@@ -1869,7 +1882,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 20--26
 
 \openout3 = `YellowGate.mw'.
 
-[43] (./YellowGate.mw)
+[44] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 
@@ -1884,7 +1897,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--44
 
 \openout3 = `YellowGate.mw'.
 
-[44] (./YellowGate.mw)
+[45] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -1896,13 +1909,13 @@ Overfull \hbox (74.12851pt too wide) in paragraph at lines 63--73
 
 \openout3 = `YellowGate.mw'.
 
-[45] (./YellowGate.mw)
+[46] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 )
 \openout3 = `YellowGate.mw'.
 
- [46] (./YellowGate.mw)
+ [47] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
  (./YellowGate.bbl
@@ -1913,60 +1926,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 44--49
 
 \openout3 = `YellowGate.mw'.
 
-[47] (./YellowGate.mw)
+[48] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 
-Underfull \hbox (badness 1939) in paragraph at lines 95--100
+Underfull \hbox (badness 1939) in paragraph at lines 101--106
 []\TU/lmr/m/n/14.4 L.R. Goonesekere.  \TU/lmr/m/it/14.4 Buddhist Commentarial L
 iterature\TU/lmr/m/n/14.4 .  Buddhist
  []
 
 
-Underfull \hbox (badness 2495) in paragraph at lines 95--100
+Underfull \hbox (badness 2495) in paragraph at lines 101--106
 \TU/lmr/m/n/14.4 Publication Society, 2008.  URL []$[][][][][] [] [] [] [][][] 
 [] [][][] [] [][] [] [][][][] [] [][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 95--100
+Underfull \hbox (badness 10000) in paragraph at lines 101--106
 [][][][][] [] [][][][][][][][][][][] [] [][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][] [] [][][][] []
- []
-
-
-Underfull \hbox (badness 2426) in paragraph at lines 123--129
-[]\TU/lmr/m/n/14.4 P.A. Jackson.  Non-normative sex/gender categories in the th
-er-
- []
-
-
-Underfull \hbox (badness 1394) in paragraph at lines 123--129
-\TU/lmr/m/n/14.4 avada buddhist scriptures.  \TU/lmr/m/it/14.4 Australian Human
-ities Review\TU/lmr/m/n/14.4 , 1996.
- []
-
-
-Underfull \hbox (badness 4454) in paragraph at lines 123--129
-\TU/lmr/m/n/14.4 URL []$[][][][][] [] [] [] [][][] [] [][][][][][][] [] [][][] 
-[] [][][] [] [][][][][][][][][][][][][][] [] [][][][] [] [] [] [][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 123--129
-[][][][][][][][][][][][][][][][][][][][][][][][][][] [] [][][] [] [][][][][][][
-] [] [][][][][][][][][][][][][][][][][][][][] []
- []
-
-\openout3 = `YellowGate.mw'.
-
-[48] (./YellowGate.mw)
-\openout3 = `YellowGate.mw'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 192--197
-[] [] [][][] [] [][][][] [] [][][] [] [][][][] [] [][][][][][][][][][][][][][][
-] [] [][][][] [] [][][][][][][][][][][][][][][] []
  []
 
 \openout3 = `YellowGate.mw'.
@@ -1975,25 +1953,60 @@ Underfull \hbox (badness 10000) in paragraph at lines 192--197
 \openout3 = `YellowGate.mw'.
 
 
-Underfull \hbox (badness 2726) in paragraph at lines 199--204
+Underfull \hbox (badness 2426) in paragraph at lines 129--135
+[]\TU/lmr/m/n/14.4 P.A. Jackson.  Non-normative sex/gender categories in the th
+er-
+ []
+
+
+Underfull \hbox (badness 1394) in paragraph at lines 129--135
+\TU/lmr/m/n/14.4 avada buddhist scriptures.  \TU/lmr/m/it/14.4 Australian Human
+ities Review\TU/lmr/m/n/14.4 , 1996.
+ []
+
+
+Underfull \hbox (badness 4454) in paragraph at lines 129--135
+\TU/lmr/m/n/14.4 URL []$[][][][][] [] [] [] [][][] [] [][][][][][][] [] [][][] 
+[] [][][] [] [][][][][][][][][][][][][][] [] [][][][] [] [] [] [][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--135
+[][][][][][][][][][][][][][][][][][][][][][][][][][] [] [][][] [] [][][][][][][
+] [] [][][][][][][][][][][][][][][][][][][][] []
+ []
+
+\openout3 = `YellowGate.mw'.
+
+[50] (./YellowGate.mw)
+\openout3 = `YellowGate.mw'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--203
+[] [] [][][] [] [][][][] [] [][][] [] [][][][] [] [][][][][][][][][][][][][][][
+] [] [][][][] [] [][][][][][][][][][][][][][][] []
+ []
+
+
+Underfull \hbox (badness 2726) in paragraph at lines 205--210
 []\TU/lmr/m/n/14.4 Bhikkhu Sujato.  \TU/lmr/m/it/14.4 White Bones Red Rot Black
  Snakes\TU/lmr/m/n/14.4 .  Lulu,
  []
 
 
-Underfull \hbox (badness 1147) in paragraph at lines 199--204
+Underfull \hbox (badness 1147) in paragraph at lines 205--210
 \TU/lmr/m/n/14.4 2011.  URL []$[][][][][] [] [] [] [][][] [] [][][][] [] [][][]
  [] [][] [] [][] [] [][][][] [] [][][][][][][][][][][][][][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 199--204
+Underfull \hbox (badness 10000) in paragraph at lines 205--210
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] [] [
 ][][][][] [] [][][][][][][][][][][][][][][][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 206--211
+Underfull \hbox (badness 10000) in paragraph at lines 212--217
 [][][] [] [][][][] [] [][][] [] [][] [] [][] [] [][][][] [] [][][][][][][][][][
 ][][][][][] [] [][][][][][][][][][][][][][][][][][][] []
  []
@@ -2035,11 +2048,11 @@ braces):
 >  {english/Localnumeral}  =>  {polyglossia@C@localnumeral}.
 \openout3 = `YellowGate.mw'.
 
- [50] (./YellowGate.mw)
+ [51] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 76.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 76.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 77.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 77.
  (./YellowGate.aux
 LaTeX Info: Redefining \rmfamily on input line 22.
 LaTeX Info: Redefining \sffamily on input line 22.
@@ -2157,8 +2170,8 @@ LaTeX Info: Redefining \ttfamily on input line 22.
 \openout3 = `YellowGate.mw'.
 
 )
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 76.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 76.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 77.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 77.
 \openout3 = `YellowGate.out'.
 
 Package rerunfilecheck Info: File `YellowGate.out' has not changed.
@@ -2171,12 +2184,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 41620 strings out of 481804
- 955121 string characters out of 5937876
+ 41627 strings out of 481804
+ 955229 string characters out of 5937876
  1383659 words of memory out of 5000000
- 57811 multiletter control sequences out of 15000+600000
+ 57816 multiletter control sequences out of 15000+600000
  564965 words of font info for 79 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  80i,8n,104p,10128b,675s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on YellowGate.pdf (50 pages).
+Output written on YellowGate.pdf (51 pages).

@@ -11,18 +11,18 @@
 \contentsline {subsection}{\numberline {4.3}The Paṇḍaka in the Chinese Vinayas}{19}{subsection.4.3}%
 \contentsline {subsection}{\numberline {4.4}Development of the Paṇḍaka in the Scriptures}{21}{subsection.4.4}%
 \contentsline {section}{\numberline {5}The Ubhatob­yañ­janaka}{23}{section.5}%
-\contentsline {section}{\numberline {6}Itthipaṇḍaka, Animittā, Nimittamattā, Vepurisikā}{28}{section.6}%
-\contentsline {section}{\numberline {7}Changing Gender}{31}{section.7}%
-\contentsline {section}{\numberline {8}Conclusion}{33}{section.8}%
-\contentsline {section}{\numberline {9}With Gratitude}{36}{section.9}%
-\contentsline {section}{\numberline {A}Sex and Gender Non-Conformity in the Chinese Vinayas of the Different Schools}{38}{appendix.A}%
-\contentsline {subsection}{\numberline {A.1}Mahāsaṅghika Vinaya}{38}{subsection.A.1}%
-\contentsline {subsection}{\numberline {A.2}Dharmaguptaka Vinaya}{39}{subsection.A.2}%
-\contentsline {subsection}{\numberline {A.3}Mahīśāsaka Vinaya}{40}{subsection.A.3}%
-\contentsline {subsection}{\numberline {A.4}Sarvāstivāda Vinaya}{41}{subsection.A.4}%
-\contentsline {section}{\numberline {B}Word Frequency}{42}{appendix.B}%
-\contentsline {subsection}{\numberline {B.1}Pali Canon and Commentaries}{42}{subsection.B.1}%
-\contentsline {subsection}{\numberline {B.2}Sanskrit Buddhist and Vedic Canon and Commentaries}{43}{subsection.B.2}%
-\contentsline {section}{\numberline {C}Glossary of Definitions}{43}{appendix.C}%
-\contentsline {subsection}{\numberline {C.1}Definitions of Pali Words}{43}{subsection.C.1}%
-\contentsline {subsection}{\numberline {C.2}Modern Definitions}{44}{subsection.C.2}%
+\contentsline {section}{\numberline {6}Itthipaṇḍaka, Animittā, Nimittamattā, Vepurisikā}{29}{section.6}%
+\contentsline {section}{\numberline {7}Changing Gender}{32}{section.7}%
+\contentsline {section}{\numberline {8}Conclusion}{34}{section.8}%
+\contentsline {section}{\numberline {9}Gratitude}{38}{section.9}%
+\contentsline {section}{\numberline {A}Sex and Gender Non-Conformity in the Chinese Vinayas of the Different Schools}{39}{appendix.A}%
+\contentsline {subsection}{\numberline {A.1}Mahāsaṅghika Vinaya}{39}{subsection.A.1}%
+\contentsline {subsection}{\numberline {A.2}Dharmaguptaka Vinaya}{40}{subsection.A.2}%
+\contentsline {subsection}{\numberline {A.3}Mahīśāsaka Vinaya}{41}{subsection.A.3}%
+\contentsline {subsection}{\numberline {A.4}Sarvāstivāda Vinaya}{42}{subsection.A.4}%
+\contentsline {section}{\numberline {B}Word Frequency}{43}{appendix.B}%
+\contentsline {subsection}{\numberline {B.1}Pali Canon and Commentaries}{43}{subsection.B.1}%
+\contentsline {subsection}{\numberline {B.2}Sanskrit Buddhist and Vedic Canon and Commentaries}{44}{subsection.B.2}%
+\contentsline {section}{\numberline {C}Glossary of Definitions}{44}{appendix.C}%
+\contentsline {subsection}{\numberline {C.1}Definitions of Pali Words}{44}{subsection.C.1}%
+\contentsline {subsection}{\numberline {C.2}Modern Definitions}{45}{subsection.C.2}%
