@@ -2,12 +2,12 @@
 \contentsline {section}{\numberline {1}Introduction}{4}{section.1}%
 \contentsline {section}{\numberline {2}Vedic, Brahmanic and Jain Scriptures}{6}{section.2}%
 \contentsline {subsection}{\numberline {2.1}Emergence of the Third Sex/Gender}{6}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Sex and Gender in the Jain Order}{8}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}Jain Monastic Ordination}{11}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.2}Sex and Gender in the Jain Order}{9}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Jain Monastic Ordination}{12}{subsection.2.3}%
 \contentsline {section}{\numberline {3}Liṅga and the Dispute on Women's Ordination}{12}{section.3}%
-\contentsline {section}{\numberline {4}The Paṇḍaka}{13}{section.4}%
-\contentsline {subsection}{\numberline {4.1}The Paṇḍaka in the Pali Vinaya}{13}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}The Five Types of Paṇḍaka}{16}{subsection.4.2}%
+\contentsline {section}{\numberline {4}The Paṇḍaka}{14}{section.4}%
+\contentsline {subsection}{\numberline {4.1}The Paṇḍaka in the Pali Vinaya}{14}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}The Five Types of Paṇḍaka}{17}{subsection.4.2}%
 \contentsline {subsection}{\numberline {4.3}The Paṇḍaka in the Chinese Vinayas}{19}{subsection.4.3}%
 \contentsline {subsection}{\numberline {4.4}Development of the Paṇḍaka in the Scriptures}{21}{subsection.4.4}%
 \contentsline {section}{\numberline {5}The Ubhatob­yañ­janaka}{23}{section.5}%
@@ -20,9 +20,9 @@
 \contentsline {subsection}{\numberline {A.2}Dharmaguptaka Vinaya}{40}{subsection.A.2}%
 \contentsline {subsection}{\numberline {A.3}Mahīśāsaka Vinaya}{41}{subsection.A.3}%
 \contentsline {subsection}{\numberline {A.4}Sarvāstivāda Vinaya}{42}{subsection.A.4}%
-\contentsline {section}{\numberline {B}Word Frequency}{43}{appendix.B}%
-\contentsline {subsection}{\numberline {B.1}Pali Canon and Commentaries}{43}{subsection.B.1}%
+\contentsline {section}{\numberline {B}Word Frequency}{44}{appendix.B}%
+\contentsline {subsection}{\numberline {B.1}Pali Canon and Commentaries}{44}{subsection.B.1}%
 \contentsline {subsection}{\numberline {B.2}Sanskrit Buddhist and Vedic Canon and Commentaries}{44}{subsection.B.2}%
-\contentsline {section}{\numberline {C}Glossary of Definitions}{44}{appendix.C}%
-\contentsline {subsection}{\numberline {C.1}Definitions of Pali Words}{44}{subsection.C.1}%
-\contentsline {subsection}{\numberline {C.2}Modern Definitions}{45}{subsection.C.2}%
+\contentsline {section}{\numberline {C}Glossary of Definitions}{45}{appendix.C}%
+\contentsline {subsection}{\numberline {C.1}Definitions of Pali Words}{45}{subsection.C.1}%
+\contentsline {subsection}{\numberline {C.2}Modern Definitions}{46}{subsection.C.2}%
