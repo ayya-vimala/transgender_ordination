@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.1.11)  22 JAN 2021 21:11
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.1.11)  23 JAN 2021 12:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1690,11 +1690,11 @@ File: pandaka.jpg Graphic file (type bmp)
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 67.
+(caption)                particular \caption on input line 68.
 See the caption package documentation for explanation.
 
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 65--71
+Overfull \hbox (12.0pt too wide) in paragraph at lines 66--72
 [][]
  []
 
@@ -2020,86 +2020,59 @@ See the caption package documentation for explanation.
 \openout3 = `YellowGate.mw'.
 
  (./Chapters/definitions.tex
-Missing character: There is no ṁ in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmsans10-bold]:mapping=tex-text;!
 Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
 Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+\openout3 = `YellowGate.mw'.
 
-Underfull \hbox (badness 10000) in paragraph at lines 5--41
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5--41
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5--41
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5--41
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5--41
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5--41
-
- []
+ [45] (./YellowGate.mw)
+\openout3 = `YellowGate.mw'.
 
 \openout3 = `YellowGate.mw'.
 
-[45] (./YellowGate.mw)
-\openout3 = `YellowGate.mw'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 42--50
-
- []
-
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <14.4> on input line 59.
-
-Overfull \hbox (74.12851pt too wide) in paragraph at lines 59--76
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 59--76
-
- []
-
-\openout3 = `YellowGate.mw'.
 
 [46] (./YellowGate.mw)
-\openout3 = `YellowGate.mw'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--84
-
- []
-
-\openout3 = `YellowGate.mw'.
-
-[47] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 )
 \openout3 = `YellowGate.mw'.
 
- [48] (./YellowGate.mw)
+ [47] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
  (./YellowGate.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 44--49
-[][] [] [][][] [] [][][][] [] [][][][] [] [][][][][][][] [] [][][][][][][] [] [
-][] [] [][][][] [] [][][][][][][] [] [][][][][][][][] []
+Underfull \hbox (badness 1019) in paragraph at lines 51--55
+[]\TU/lmr/m/n/12 Bodhi Translation Committee BTC.  \TU/lmr/m/it/12 Dharmaguptak
+a Vinaya, Ordination Skand-
+ []
+
+
+Underfull \hbox (badness 1701) in paragraph at lines 51--55
+\TU/lmr/m/it/12 haka\TU/lmr/m/n/12 .  Bodhi Foundation for Culture and Educatio
+n, 2015.  URL []$[][][][] [] [] []
+ []
+
+\openout3 = `YellowGate.mw'.
+
+[48] (./YellowGate.mw)
+\openout3 = `YellowGate.mw'.
+
+
+Underfull \hbox (badness 5908) in paragraph at lines 101--106
+[]\TU/lmr/m/n/12 L.R. Goonesekere.  \TU/lmr/m/it/12 Buddhist Commentarial Liter
+ature\TU/lmr/m/n/12 .  Buddhist Publica-
+ []
+
+
+Underfull \hbox (badness 2772) in paragraph at lines 101--106
+\TU/lmr/m/n/12 tion Society, 2008.  URL []$[][][][][] [] [] [] [][][] [] [][][]
+ [] [][] [] [][][][] [] [][] [] [][][][][] [] [][][][][][][][][][][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--135
+[][][] [] [][][][][][][][][][][][][][] [] [][][][] [] [] [] [][][] [] [][][][][
+][][][][][][][][][][][][][][][][][][][][][] [] [][][] [] [][][][][][][] []
  []
 
 \openout3 = `YellowGate.mw'.
@@ -2108,85 +2081,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 44--49
 \openout3 = `YellowGate.mw'.
 
 
-Underfull \hbox (badness 1939) in paragraph at lines 101--106
-[]\TU/lmr/m/n/14.4 L.R. Goonesekere.  \TU/lmr/m/it/14.4 Buddhist Commentarial L
-iterature\TU/lmr/m/n/14.4 .  Buddhist
- []
-
-
-Underfull \hbox (badness 2495) in paragraph at lines 101--106
-\TU/lmr/m/n/14.4 Publication Society, 2008.  URL []$[][][][][] [] [] [] [][][] 
-[] [][][] [] [][] [] [][][][] [] [][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 101--106
-[][][][][] [] [][][][][][][][][][][] [] [][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][][][] [] [][][][] []
- []
-
-\openout3 = `YellowGate.mw'.
-
-[50] (./YellowGate.mw)
-\openout3 = `YellowGate.mw'.
-
-
-Underfull \hbox (badness 2426) in paragraph at lines 129--135
-[]\TU/lmr/m/n/14.4 P.A. Jackson.  Non-normative sex/gender categories in the th
-er-
- []
-
-
-Underfull \hbox (badness 1394) in paragraph at lines 129--135
-\TU/lmr/m/n/14.4 avada buddhist scriptures.  \TU/lmr/m/it/14.4 Australian Human
-ities Review\TU/lmr/m/n/14.4 , 1996.
- []
-
-
-Underfull \hbox (badness 4454) in paragraph at lines 129--135
-\TU/lmr/m/n/14.4 URL []$[][][][][] [] [] [] [][][] [] [][][][][][][] [] [][][] 
-[] [][][] [] [][][][][][][][][][][][][][] [] [][][][] [] [] [] [][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 129--135
-[][][][][][][][][][][][][][][][][][][][][][][][][][] [] [][][] [] [][][][][][][
-] [] [][][][][][][][][][][][][][][][][][][][] []
- []
-
-\openout3 = `YellowGate.mw'.
-
-[51] (./YellowGate.mw)
-\openout3 = `YellowGate.mw'.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 198--203
-[] [] [][][] [] [][][][] [] [][][] [] [][][][] [] [][][][][][][][][][][][][][][
-] [] [][][][] [] [][][][][][][][][][][][][][][] []
- []
-
-
-Underfull \hbox (badness 2726) in paragraph at lines 205--210
-[]\TU/lmr/m/n/14.4 Bhikkhu Sujato.  \TU/lmr/m/it/14.4 White Bones Red Rot Black
- Snakes\TU/lmr/m/n/14.4 .  Lulu,
- []
-
-
-Underfull \hbox (badness 1147) in paragraph at lines 205--210
-\TU/lmr/m/n/14.4 2011.  URL []$[][][][][] [] [] [] [][][] [] [][][][] [] [][][]
- [] [][] [] [][] [] [][][][] [] [][][][][][][][][][][][][][][] []
+[][][] [] [][][][] [] [][][][][][][][][][][][][][][] [] [][][][] [] [][][][][][
+][][][][][][][][][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][] []
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 205--210
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] [] [
-][][][][] [] [][][][][][][][][][][][][][][][][] []
+[][][][] [] [][][] [] [][] [] [][] [] [][][][] [] [][][][][][][][][][][][][][][
+] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+ []
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 212--217
-[][][] [] [][][][] [] [][][] [] [][] [] [][] [] [][][][] [] [][][][][][][][][][
-][][][][][] [] [][][][][][][][][][][][][][][][][][][] []
+[][] [] [][][][] [] [][][][][][][][][][][][][][][] [] [][][][][][][][][][][][][
+][][][][][][] [] [][][][][][][][][] [] [][][][][][][][][][][][][][][][][] []
  []
 
 )
@@ -2226,7 +2136,7 @@ braces):
 >  {english/Localnumeral}  =>  {polyglossia@C@localnumeral}.
 \openout3 = `YellowGate.mw'.
 
- [52] (./YellowGate.mw)
+ [50] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 78.
@@ -2362,12 +2272,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 41618 strings out of 481804
- 954588 string characters out of 5937876
+ 41596 strings out of 481804
+ 953848 string characters out of 5937876
  1382659 words of memory out of 5000000
- 57805 multiletter control sequences out of 15000+600000
- 564965 words of font info for 79 fonts, out of 8000000 for 9000
+ 57792 multiletter control sequences out of 15000+600000
+ 561316 words of font info for 71 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  80i,8n,104p,10128b,675s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on YellowGate.pdf (52 pages).
+Output written on YellowGate.pdf (50 pages).
