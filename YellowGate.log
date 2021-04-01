@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.1.11)  23 JAN 2021 12:36
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.1.11)  20 MAR 2021 13:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1310,6 +1310,76 @@ Package: subcaption 2020/01/22 v1.3d Sub-captions (AR)
 \c@subfigure=\count379
 \c@subtable=\count380
 )
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count381
+\mult@box=\box93
+\multicol@leftmargin=\dimen342
+\c@unbalance=\count382
+\c@collectmore=\count383
+\doublecol@number=\count384
+\multicoltolerance=\count385
+\multicolpretolerance=\count386
+\full@width=\dimen343
+\page@free=\dimen344
+\premulticols=\dimen345
+\postmulticols=\dimen346
+\multicolsep=\skip88
+\multicolbaselineskip=\skip89
+\partial@page=\box94
+\last@line=\box95
+\maxbalancingoverflow=\dimen347
+\mult@rightbox=\box96
+\mult@grightbox=\box97
+\mult@gfirstbox=\box98
+\mult@firstbox=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\@tempa=\box105
+\@tempa=\box106
+\@tempa=\box107
+\@tempa=\box108
+\@tempa=\box109
+\@tempa=\box110
+\@tempa=\box111
+\@tempa=\box112
+\@tempa=\box113
+\@tempa=\box114
+\@tempa=\box115
+\@tempa=\box116
+\@tempa=\box117
+\@tempa=\box118
+\@tempa=\box119
+\@tempa=\box120
+\@tempa=\box121
+\@tempa=\box122
+\@tempa=\box123
+\@tempa=\box124
+\@tempa=\box125
+\@tempa=\box126
+\@tempa=\box127
+\@tempa=\box128
+\@tempa=\box129
+\@tempa=\box130
+\@tempa=\box131
+\@tempa=\box132
+\@tempa=\box133
+\@tempa=\box134
+\@tempa=\box135
+\@tempa=\box136
+\c@minrows=\count387
+\c@columnbadness=\count388
+\c@finalcolumnbadness=\count389
+\last@try=\dimen348
+\multicolovershoot=\dimen349
+\multicolundershoot=\dimen350
+\mult@nat@firstbox=\box137
+\colbreak@box=\box138
+\mc@col@check@num=\count390
+)
 
 LaTeX Warning: Unused global option(s):
     [open=right].
@@ -1321,34 +1391,34 @@ LaTeX Info: Redefining \ttfamily on input line 22.
 )
 \openout1 = `YellowGate.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 49.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 4
-9.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 50.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 5
+0.
  (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-Package scrbase Info: activating english \contentsname on input line 49.
-Package scrbase Info: activating english \listfigurename on input line 49.
-Package scrbase Info: activating english \listtablename on input line 49.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+Package scrbase Info: activating english \contentsname on input line 50.
+Package scrbase Info: activating english \listfigurename on input line 50.
+Package scrbase Info: activating english \listtablename on input line 50.
 
 ABD: EveryShipout initializing macros
 *geometry* driver: auto-detecting
@@ -1385,8 +1455,8 @@ ABD: EveryShipout initializing macros
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\AtBeginShipoutBox=\box93
-Package hyperref Info: Link coloring OFF on input line 49.
+\AtBeginShipoutBox=\box139
+Package hyperref Info: Link coloring OFF on input line 50.
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 
@@ -1396,11 +1466,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count381
+\c@section@level=\count391
 )
-LaTeX Info: Redefining \ref on input line 49.
-LaTeX Info: Redefining \pageref on input line 49.
-LaTeX Info: Redefining \nameref on input line 49.
+LaTeX Info: Redefining \ref on input line 50.
+LaTeX Info: Redefining \pageref on input line 50.
+LaTeX Info: Redefining \nameref on input line 50.
 
 (./YellowGate.out) (./YellowGate.out)
 \@outlinefile=\write22
@@ -1413,51 +1483,51 @@ Class scrartcl Info: loading recommended package `bookmark'.
 (scrartcl)           `bookmarkpackage=false' before \begin{document} and
 (scrartcl)           you can avoid this message adding:
 (scrartcl)             \usepackage{bookmark}
-(scrartcl)           before \begin{document} on input line 49.
+(scrartcl)           before \begin{document} on input line 50.
 
 (/usr/share/texlive/texmf-dist/tex/latex/bookmark/bookmark.sty
 Package: bookmark 2019/12/03 v1.28 PDF bookmarks (HO)
 
 (/usr/share/texlive/texmf-dist/tex/latex/bookmark/bkm-dvipdfm.def
 File: bkm-dvipdfm.def 2019/12/03 v1.28 bookmark driver for dvipdfm (HO)
-\BKM@id=\count382
+\BKM@id=\count392
 ))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Info: Redefining \rmfamily on input line 49.
-LaTeX Info: Redefining \sffamily on input line 49.
-LaTeX Info: Redefining \ttfamily on input line 49.
+LaTeX Info: Redefining \rmfamily on input line 50.
+LaTeX Info: Redefining \sffamily on input line 50.
+LaTeX Info: Redefining \ttfamily on input line 50.
 
 (./Chapters/title.tex)
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 5
-1.
+2.
  (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 5
-1.
+2.
 
 (/usr/share/texmf/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-51.
+52.
 
 (/usr/share/texmf/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-51.
+52.
 
 (/usr/share/texmf/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <17.28> on input line 51.
+(Font)              <17.28> on input line 52.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 51.
+(Font)              <12> on input line 52.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 51.
+(Font)              <10> on input line 52.
 
 (/usr/share/texlive/texmf-dist/tex/generic/stringenc/se-ascii-print.def
 File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
@@ -1592,18 +1662,40 @@ Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
  [12] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+
+Underfull \vbox (badness 3803) has occurred while \output is active []
+
 \openout3 = `YellowGate.mw'.
 
- [13] (./YellowGate.mw)
+ [13]
+(./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
-)
-(./Chapters/pandaka.tex
-Underfull \hbox (badness 10000) in paragraph at lines 10--1
+\openout3 = `YellowGate.mw'.
+
+ [14] (./YellowGate.mw)
+\openout3 = `YellowGate.mw'.
+
+
+Overfull \hbox (6.84377pt too wide) in paragraph at lines 18--19
+[]\TU/lmr/m/n/12 In the charts for the Chinese texts we see that the words for 
+male and female ‘root/faculty’
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
 
  []
 
+) (./Chapters/pandaka.tex
+\openout3 = `YellowGate.mw'.
+
+ [15] (./YellowGate.mw)
+\openout3 = `YellowGate.mw'.
+
 Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+
 
 LaTeX Font Warning: Font shape `TU/SimSun(0)/m/it' undefined
 (Font)              using `TU/SimSun(0)/m/n' instead on input line 7.
@@ -1627,22 +1719,7 @@ Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
 Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
 \openout3 = `YellowGate.mw'.
 
-[14] (./YellowGate.mw)
-\openout3 = `YellowGate.mw'.
-
-\openout3 = `YellowGate.mw'.
-
- [15] (./YellowGate.mw)
-\openout3 = `YellowGate.mw'.
-
-Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
-
-Underfull \vbox (badness 1661) has occurred while \output is active []
-
-\openout3 = `YellowGate.mw'.
-
- [16]
-(./YellowGate.mw)
+[16] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 \openout3 = `YellowGate.mw'.
@@ -1651,64 +1728,115 @@ Underfull \vbox (badness 1661) has occurred while \output is active []
 \openout3 = `YellowGate.mw'.
 
 Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
-Missing character: There is no ṁ in font [lmroman10-italic]:mapping=tex-text;!
-Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
-Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
-Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
 \openout3 = `YellowGate.mw'.
 
  [18] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+
+Overfull \hbox (22.71191pt too wide) in paragraph at lines 38--39
+[]\TU/lmr/m/it/12 Paṇḍakobhikkhaveti ettha āsittapaṇḍako usūyapaṇḍako opakkamik
+apaṇḍako pakkha-
+ []
+
+
+Overfull \hbox (2.24504pt too wide) in paragraph at lines 38--39
+\TU/lmr/m/it/12 opakkamikapaṇḍako. Ekacco pana akusalavipākānubhāvena kāḷapakkh
+e paṇḍako
+ []
+
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+
+Overfull \hbox (20.67068pt too wide) in paragraph at lines 42--43
+[]\TU/lmr/m/n/12 A ‘\TU/lmr/m/it/12 paṇḍaka\TU/lmr/m/n/12 ’, monks, means in th
+is case, \TU/lmr/m/it/12 āsittapaṇḍaka\TU/lmr/m/n/12 , \TU/lmr/m/it/12 usūyapaṇ
+ḍaka\TU/lmr/m/n/12 , \TU/lmr/m/it/12 opakkamika-
+ []
+
+\openout3 = `YellowGate.mw'.
+
+[19] (./YellowGate.mw)
+\openout3 = `YellowGate.mw'.
+
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
 Missing character: There is no ṁ in font [lmroman10-italic]:mapping=tex-text;!
-Missing character: There is no ṁ in font [lmroman10-italic]:mapping=tex-text;!
-Missing character: There is no ṁ in font [lmroman10-italic]:mapping=tex-text;!
-Missing character: There is no ṁ in font [lmroman10-italic]:mapping=tex-text;!
-Missing character: There is no ṁ in font [lmroman10-italic]:mapping=tex-text;!
-Missing character: There is no ṁ in font [lmroman10-italic]:mapping=tex-text;!
-Missing character: There is no ṁ in font [lmroman10-italic]:mapping=tex-text;!
-Missing character: There is no ṁ in font [lmroman10-italic]:mapping=tex-text;!
-Missing character: There is no ṁ in font [lmroman10-italic]:mapping=tex-text;!
-Missing character: There is no ṁ in font [lmroman10-italic]:mapping=tex-text;!
-Missing character: There is no ṁ in font [lmroman10-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
 Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
 Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
 \openout3 = `YellowGate.mw'.
 
- [19]
+ [20] (./YellowGate.mw)
+\openout3 = `YellowGate.mw'.
+
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman10-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman10-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman10-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman10-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman10-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman10-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman10-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman10-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman10-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman10-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman10-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+
+Underfull \vbox (badness 1661) has occurred while \output is active []
+
+\openout3 = `YellowGate.mw'.
+
+ [21]
 (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 \openout3 = `YellowGate.mw'.
 
- [20] (./YellowGate.mw)
+ [22] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 File: pandaka.jpg Graphic file (type bmp)
 <pandaka.jpg>
 
 
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 68.
+Package caption Warning: The type was already set to `figure'
+(caption)                 on input line 77.
 See the caption package documentation for explanation.
 
-
-Overfull \hbox (12.0pt too wide) in paragraph at lines 66--72
-[][]
- []
-
 Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
 \openout3 = `YellowGate.mw'.
 
-[21] (./YellowGate.mw)
+[23] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
 Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
 \openout3 = `YellowGate.mw'.
 
- [22] (./YellowGate.mw)
+ [24] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 File: Eunuchs-in-ancient-China.jpg Graphic file (type bmp)
@@ -1718,7 +1846,7 @@ File: hijra.jpg Graphic file (type bmp)
 ) (./Chapters/ubhato.tex
 \openout3 = `YellowGate.mw'.
 
- [23]
+ [25]
 (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
@@ -1751,72 +1879,54 @@ Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
 Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
 Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
 
-Overfull \hbox (4.1357pt too wide) in paragraph at lines 19--20
+Overfull \hbox (4.1357pt too wide) in paragraph at lines 20--21
 \TU/lmr/m/it/12 tuppādanakammato ca ubhato byañjanamassa atthīti ubhatobyañjana
 ko.Karotīti
  []
 
 
-Overfull \hbox (17.71169pt too wide) in paragraph at lines 19--20
+Overfull \hbox (17.71169pt too wide) in paragraph at lines 20--21
 \TU/lmr/m/it/12 purisaubhatobyañjanakoti.Tattha itthiubhatobyañjanakassa itthin
 imittaṁ pākaṭaṁ
  []
 
 
-Overfull \hbox (12.30373pt too wide) in paragraph at lines 19--20
+Overfull \hbox (12.30373pt too wide) in paragraph at lines 20--21
 \TU/lmr/m/it/12 purisattaṁ karontassa itthinimittaṁ paṭicchannaṁ hoti, purisani
 mittaṁ pākaṭaṁ
  []
 
 
-Overfull \hbox (16.81326pt too wide) in paragraph at lines 19--20
+Overfull \hbox (16.81326pt too wide) in paragraph at lines 20--21
 \TU/lmr/m/it/12 hoti. Purisaubhatobyañjanakassa purisānaṁ itthibhāvaṁ upagaccha
 ntassa purisa-
  []
 
 \openout3 = `YellowGate.mw'.
 
-[24] (./YellowGate.mw)
+[26] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
 
-Overfull \hbox (6.86375pt too wide) in paragraph at lines 25--26
+Overfull \hbox (20.70103pt too wide) in paragraph at lines 22--23
+\TU/lmr/m/it/12 tatī”ti. Tattha vicāraṇakkamo vitthārato aṭṭhasāliniyā dhammasa
+ṅgahaṭṭhakathāya
+ []
+
+
+Overfull \hbox (7.01976pt too wide) in paragraph at lines 28--29
 []\TU/lmr/m/n/12 They are twofold: the female \TU/lmr/m/it/12 ubhatob­yañ­janak
 a \TU/lmr/m/n/12 and the male \TU/lmr/m/it/12 ubhatob­yañ­janaka\TU/lmr/m/n/12 
 .
- []
-
-Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
-Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
-Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
-Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
-Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
-Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
-Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
-Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
-Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
-Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
-\openout3 = `YellowGate.mw'.
-
-[25] (./YellowGate.mw)
-\openout3 = `YellowGate.mw'.
-
-\openout3 = `YellowGate.mw'.
-
- [26] (./YellowGate.mw)
-\openout3 = `YellowGate.mw'.
-
-File: androgyne.jpg Graphic file (type bmp)
-<androgyne.jpg>
-
-
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 60.
-See the caption package documentation for explanation.
-
-
-Overfull \hbox (12.0pt too wide) in paragraph at lines 58--64
-[][]
  []
 
 \openout3 = `YellowGate.mw'.
@@ -1829,92 +1939,83 @@ Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
 Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
 Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
 Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
 \openout3 = `YellowGate.mw'.
 
  [28] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
-) (./Chapters/animitta.tex
-Underfull \vbox (badness 3965) has occurred while \output is active []
+File: androgyne.jpg Graphic file (type bmp)
+<androgyne.jpg>
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--71
+
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 \openout3 = `YellowGate.mw'.
 
- [29]
+[29] (./YellowGate.mw)
+\openout3 = `YellowGate.mw'.
+
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+\openout3 = `YellowGate.mw'.
+
+ [30] (./YellowGate.mw)
+\openout3 = `YellowGate.mw'.
+
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+
+Underfull \vbox (badness 1038) has occurred while \output is active []
+
+\openout3 = `YellowGate.mw'.
+
+ [31]
 (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5--11
+) (./Chapters/animitta.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
  []
 
-Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
-Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
-Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--12
+
+ []
+
 Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
 \openout3 = `YellowGate.mw'.
 
-[30] (./YellowGate.mw)
+[32] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
 File: female.jpg Graphic file (type bmp)
 <female.jpg>
 
 
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 32.
+Package caption Warning: The type was already set to `figure'
+(caption)                 on input line 34.
 See the caption package documentation for explanation.
 
-
-Overfull \hbox (12.0pt too wide) in paragraph at lines 30--36
-[][]
- []
-
 Missing character: There is no ṁ in font [lmroman10-italic]:mapping=tex-text;!
 Missing character: There is no ṁ in font [lmroman10-italic]:mapping=tex-text;!
 Missing character: There is no ṁ in font [lmroman10-italic]:mapping=tex-text;!
 \openout3 = `YellowGate.mw'.
 
-[31] (./YellowGate.mw)
-\openout3 = `YellowGate.mw'.
-
-) (./Chapters/trans.tex
-\openout3 = `YellowGate.mw'.
-
- [32] (./YellowGate.mw)
-\openout3 = `YellowGate.mw'.
-
-Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
-Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
-Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
-Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
-Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
-Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
-Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
-Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
-Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
-Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
-Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
-Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
-Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
-Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
-Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
-Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
-Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
-Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
-Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
-Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
-Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
-Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
-\openout3 = `YellowGate.mw'.
-
- [33]
-(./YellowGate.mw)
+[33] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 \openout3 = `YellowGate.mw'.
@@ -1922,7 +2023,29 @@ Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
  [34] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
-) (./Chapters/conclusion.tex
+) (./Chapters/trans.tex
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
+Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
 \openout3 = `YellowGate.mw'.
 
  [35]
@@ -1934,14 +2057,37 @@ Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
  [36] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
+) (./Chapters/conclusion.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 \openout3 = `YellowGate.mw'.
 
- [37] (./YellowGate.mw)
+ [37]
+(./YellowGate.mw)
+\openout3 = `YellowGate.mw'.
+
+\openout3 = `YellowGate.mw'.
+
+ [38] (./YellowGate.mw)
+\openout3 = `YellowGate.mw'.
+
+
+Underfull \vbox (badness 1264) has occurred while \output is active []
+
+\openout3 = `YellowGate.mw'.
+
+ [39]
+(./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
 )
-(./Chapters/acknowledgement.tex
+\openout3 = `YellowGate.mw'.
+
+ [40] (./YellowGate.mw)
+\openout3 = `YellowGate.mw'.
+
+ (./Chapters/acknowledgement.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
@@ -1964,83 +2110,277 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--10
 )
 \openout3 = `YellowGate.mw'.
 
- [38] (./YellowGate.mw)
+ [41] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
  (./Chapters/chinese.tex
 Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
 \openout3 = `YellowGate.mw'.
 
- [39] (./YellowGate.mw)
-\openout3 = `YellowGate.mw'.
-
-\openout3 = `YellowGate.mw'.
-
-
-[40] (./YellowGate.mw)
-\openout3 = `YellowGate.mw'.
-
-\openout3 = `YellowGate.mw'.
-
- [41] (./YellowGate.mw)
-\openout3 = `YellowGate.mw'.
-
-\openout3 = `YellowGate.mw'.
-
  [42] (./YellowGate.mw)
+\openout3 = `YellowGate.mw'.
+
+\openout3 = `YellowGate.mw'.
+
+
+[43] (./YellowGate.mw)
+\openout3 = `YellowGate.mw'.
+
+\openout3 = `YellowGate.mw'.
+
+ [44] (./YellowGate.mw)
+\openout3 = `YellowGate.mw'.
+
+\openout3 = `YellowGate.mw'.
+
+ [45] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 )
 \openout3 = `YellowGate.mw'.
 
- [43]
+ [46]
 (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
  (./Chapters/frequency.tex
 File: pali.jpg Graphic file (type bmp)
 <pali.jpg>
+File: pali_weighted.jpg Graphic file (type bmp)
+<pali_weighted.jpg>
+
+Overfull \hbox (2.60799pt too wide) in paragraph at lines 16--26
+[]$[]$  $[]$
+ []
 
 
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 11.
-See the caption package documentation for explanation.
+Underfull \hbox (badness 10000) in paragraph at lines 16--26
+
+ []
+
+File: pali_perc.jpg Graphic file (type bmp)
+<pali_perc.jpg>
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--37
+
+ []
+
+\openout3 = `YellowGate.mw'.
+
+[47] (./YellowGate.mw)
+\openout3 = `YellowGate.mw'.
 
 File: sanskrit.jpg Graphic file (type bmp)
 <sanskrit.jpg>
+File: sanskrit_weighted.jpg Graphic file (type bmp)
+<sanskrit_weighted.jpg>
 
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 20.
-See the caption package documentation for explanation.
+Overfull \hbox (2.60799pt too wide) in paragraph at lines 49--59
+[]$[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--59
+
+ []
+
+File: sanskrit_perc.jpg Graphic file (type bmp)
+<sanskrit_perc.jpg>
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--70
+
+ []
+
+\openout3 = `YellowGate.mw'.
+
+[48] (./YellowGate.mw)
+\openout3 = `YellowGate.mw'.
+
+File: chinese.jpg Graphic file (type bmp)
+<chinese.jpg>
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--86
+
+ []
+
+File: chinese_perc.jpg Graphic file (type bmp)
+<chinese_perc.jpg>
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--97
+
+ []
+
+\openout3 = `YellowGate.mw'.
+
+[49] (./YellowGate.mw)
+\openout3 = `YellowGate.mw'.
+
+File: tibetan.jpg Graphic file (type bmp)
+<tibetan.jpg>
+File: tibetan_weighted.jpg Graphic file (type bmp)
+<tibetan_weighted.jpg>
+
+Overfull \hbox (2.608pt too wide) in paragraph at lines 107--117
+[]$[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--117
+
+ []
+
+File: tibetan_perc.jpg Graphic file (type bmp)
+<tibetan_perc.jpg>
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--128
+
+ []
+
+\openout3 = `YellowGate.mw'.
+
+[50] (./YellowGate.mw)
+\openout3 = `YellowGate.mw'.
+
+File: itthi.jpg Graphic file (type bmp)
+<itthi.jpg>
+File: itthi_weighted.jpg Graphic file (type bmp)
+<itthi_weighted.jpg>
+
+Overfull \hbox (2.60799pt too wide) in paragraph at lines 141--151
+[]$[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--151
+
+ []
+
+File: itthi_perc.jpg Graphic file (type bmp)
+<itthi_perc.jpg>
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--162
+
+ []
+
+File: pali_linga.jpg Graphic file (type bmp)
+<pali_linga.jpg>
+File: pali_byanyana.jpg Graphic file (type bmp)
+<pali_byanyana.jpg>
+
+Overfull \hbox (2.60799pt too wide) in paragraph at lines 167--177
+[]$[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--177
+
+ []
+
+\openout3 = `YellowGate.mw'.
+
+[51] (./YellowGate.mw)
+\openout3 = `YellowGate.mw'.
+
+File: stri.jpg Graphic file (type bmp)
+<stri.jpg>
+File: stri_weighted.jpg Graphic file (type bmp)
+<stri_weighted.jpg>
+
+Overfull \hbox (2.60799pt too wide) in paragraph at lines 186--196
+[]$[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 186--196
+
+ []
+
+File: stri_perc.jpg Graphic file (type bmp)
+<stri_perc.jpg>
+
+Underfull \hbox (badness 10000) in paragraph at lines 201--207
+
+ []
+
+File: sanskrit_linga.jpg Graphic file (type bmp)
+<sanskrit_linga.jpg>
+File: sanskrit_byanyana.jpg Graphic file (type bmp)
+<sanskrit_byanyana.jpg>
+
+Overfull \hbox (2.60799pt too wide) in paragraph at lines 212--222
+[]$[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--222
+
+ []
+
+\openout3 = `YellowGate.mw'.
+
+[52] (./YellowGate.mw)
+\openout3 = `YellowGate.mw'.
+
+File: chinese_itthi.jpg Graphic file (type bmp)
+<chinese_itthi.jpg>
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--237
+
+ []
+
+File: chinese_itthi_perc.jpg Graphic file (type bmp)
+<chinese_itthi_perc.jpg>
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--248
+
+ []
+
+File: chinese_faculty.jpg Graphic file (type bmp)
+<chinese_faculty.jpg>
+
+Underfull \hbox (badness 10000) in paragraph at lines 253--259
+
+ []
+
+File: chinese_shape.jpg Graphic file (type bmp)
+<chinese_shape.jpg>
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--270
+
+ []
 
 )
 \openout3 = `YellowGate.mw'.
 
- [44] (./YellowGate.mw)
+ [53] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
  (./Chapters/definitions.tex
 Missing character: There is no ṁ in font [lmsans10-bold]:mapping=tex-text;!
 Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
 Missing character: There is no ṁ in font [lmroman12-italic]:mapping=tex-text;!
-\openout3 = `YellowGate.mw'.
 
- [45] (./YellowGate.mw)
-\openout3 = `YellowGate.mw'.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \openout3 = `YellowGate.mw'.
 
+ [54]
+(./YellowGate.mw)
+\openout3 = `YellowGate.mw'.
 
-[46] (./YellowGate.mw)
+\openout3 = `YellowGate.mw'.
+
+ [55] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 )
 \openout3 = `YellowGate.mw'.
 
- [47] (./YellowGate.mw)
+ [56] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
- (./YellowGate.bbl
+
+(./YellowGate.bbl
 Underfull \hbox (badness 1019) in paragraph at lines 51--55
 []\TU/lmr/m/n/12 Bodhi Translation Committee BTC.  \TU/lmr/m/it/12 Dharmaguptak
 a Vinaya, Ordination Skand-
@@ -2054,7 +2394,7 @@ n, 2015.  URL []$[][][][] [] [] []
 
 \openout3 = `YellowGate.mw'.
 
-[48] (./YellowGate.mw)
+[57] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 
@@ -2077,7 +2417,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 129--135
 
 \openout3 = `YellowGate.mw'.
 
-[49] (./YellowGate.mw)
+[58] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
 
@@ -2099,6 +2439,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 212--217
 ][][][][][][] [] [][][][][][][][][] [] [][][][][][][][][][][][][][][][][] []
  []
 
+) (./Chapters/websites.tex
+File: sc_logo.png Graphic file (type bmp)
+<sc_logo.png>
+File: bn_logo.png Graphic file (type bmp)
+<bn_logo.png>
+File: itlr.jpg Graphic file (type bmp)
+<itlr.jpg>
 )
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
@@ -2136,11 +2483,11 @@ braces):
 >  {english/Localnumeral}  =>  {polyglossia@C@localnumeral}.
 \openout3 = `YellowGate.mw'.
 
- [50] (./YellowGate.mw)
+ [59] (./YellowGate.mw)
 \openout3 = `YellowGate.mw'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 78.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 78.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 81.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 81.
  (./YellowGate.aux
 LaTeX Info: Redefining \rmfamily on input line 22.
 LaTeX Info: Redefining \sffamily on input line 22.
@@ -2258,8 +2605,8 @@ LaTeX Info: Redefining \ttfamily on input line 22.
 \openout3 = `YellowGate.mw'.
 
 )
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 78.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 78.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 81.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 81.
 \openout3 = `YellowGate.out'.
 
 Package rerunfilecheck Info: File `YellowGate.out' has not changed.
@@ -2272,12 +2619,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 41596 strings out of 481804
- 953848 string characters out of 5937876
- 1382659 words of memory out of 5000000
- 57792 multiletter control sequences out of 15000+600000
+ 41804 strings out of 481804
+ 951812 string characters out of 5937876
+ 1389457 words of memory out of 5000000
+ 57950 multiletter control sequences out of 15000+600000
  561316 words of font info for 71 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 80i,8n,104p,10128b,675s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 80i,8n,104p,10128b,677s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on YellowGate.pdf (50 pages).
+Output written on YellowGate.pdf (59 pages).
