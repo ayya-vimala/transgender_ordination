@@ -21,7 +21,7 @@
 \contentsline {subsection}{\numberline {A.3}Mahīśāsaka Vinaya}{44}{subsection.A.3}%
 \contentsline {subsection}{\numberline {A.4}Sarvāstivāda Vinaya}{45}{subsection.A.4}%
 \contentsline {section}{\numberline {B}Word Frequency}{47}{appendix.B}%
-\contentsline {subsection}{\numberline {B.1}Words denoting gender-nonconform individuals}{47}{subsection.B.1}%
+\contentsline {subsection}{\numberline {B.1}Words denoting gender-nonconforming individuals}{47}{subsection.B.1}%
 \contentsline {subsection}{\numberline {B.2}Words denoting sex/gender-characteristics}{51}{subsection.B.2}%
 \contentsline {section}{\numberline {C}Glossary of Definitions}{54}{appendix.C}%
 \contentsline {subsection}{\numberline {C.1}Definitions of Pali and Sanskrit Words}{54}{subsection.C.1}%
